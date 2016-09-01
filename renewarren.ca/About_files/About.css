@@ -109,6 +109,9 @@
     line-height: 13px;
     opacity: 1.00;
 }
+.style_External_79_56 {
+    position: relative;
+}
 .style_4 {
     color: rgb(33, 33, 33);
     font-family: 'CenturyGothic-Bold', 'Century Gothic';
@@ -159,9 +162,6 @@
 }
 .style_7 {
     padding: 4px;
-}
-.style_External_89_56 {
-    position: relative;
 }
 .paragraph_style_5 {
     color: rgb(0, 0, 0);
@@ -357,13 +357,13 @@
 .graphic_textbox_layout_style_default_External_174_74 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_89_56 {
-    position: relative;
-}
 .graphic_textbox_layout_style_default_External_98_36 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_503_66 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_79_56 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
