@@ -29,6 +29,28 @@
     opacity: 1.00;
 }
 .paragraph_style_1 {
+    color: rgb(0, 0, 0);
+    font-family: 'CenturyGothic', 'Century Gothic';
+    font-size: 18px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_2 {
     color: rgb(169, 169, 169);
     font-family: 'CenturyGothic-Italic', 'Century Gothic';
     font-size: 10px;
@@ -55,7 +77,7 @@
     line-height: 13px;
     opacity: 1.00;
 }
-.paragraph_style_2 {
+.paragraph_style_3 {
     color: rgb(103, 103, 103);
     font-family: 'CenturyGothic', 'Century Gothic';
     font-size: 10px;
@@ -102,10 +124,46 @@
     line-height: 13px;
     opacity: 1.00;
 }
+.style_External_160_80 {
+    position: relative;
+}
+.paragraph_style_4 {
+    color: rgb(0, 0, 0);
+    font-family: 'CenturyGothic-Bold', 'Century Gothic';
+    font-size: 18px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
 .style_6 {
+    font-family: 'CenturyGothic-Bold', 'Century Gothic';
+    font-size: 18px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+}
+.style_7 {
     padding: 4px;
 }
-.paragraph_style_3 {
+.style_External_89_56 {
+    position: relative;
+}
+.paragraph_style_5 {
     color: rgb(0, 0, 0);
     font-family: 'CenturyGothic', 'Century Gothic';
     font-size: 13px;
@@ -127,7 +185,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_4 {
+.paragraph_style_6 {
     color: rgb(103, 103, 103);
     font-family: 'CenturyGothic', 'Century Gothic';
     font-size: 13px;
@@ -149,7 +207,21 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_7 {
+.style_External_396_782 {
+    position: relative;
+}
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_External_503_66 {
+    position: relative;
+}
+.style_8 {
     font-family: 'CenturyGothic-BoldItalic', 'Century Gothic';
     font-size: 13px;
     font-stretch: normal;
@@ -157,20 +229,12 @@
     font-weight: 700;
     line-height: 18px;
 }
-.style_8 {
+.style_9 {
     font-family: 'CenturyGothic-Italic', 'Century Gothic';
     font-size: 13px;
     font-stretch: normal;
     font-style: italic;
     font-weight: 400;
-    line-height: 18px;
-}
-.style_9 {
-    font-family: 'CenturyGothic-Bold', 'Century Gothic';
-    font-size: 13px;
-    font-stretch: normal;
-    font-style: normal;
-    font-weight: 700;
     line-height: 18px;
 }
 .style_10 {
@@ -182,6 +246,14 @@
     line-height: 18px;
 }
 .style_11 {
+    font-family: 'CenturyGothic-Bold', 'Century Gothic';
+    font-size: 13px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 18px;
+}
+.style_12 {
     font-family: 'CenturyGothic-BoldItalic', 'Century Gothic';
     font-size: 13px;
     font-stretch: normal;
@@ -189,34 +261,52 @@
     font-weight: 700;
     line-height: 18px;
 }
-.style_12 {
+.style_13 {
     color: rgb(66, 66, 66);
     line-height: 18px;
-    opacity: 1.00;
-}
-.style_External_396_782 {
-    position: relative;
-}
-.style_SkipStroke_1 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke {
-    background: transparent;
     opacity: 1.00;
 }
 .style_SkipStroke_2 {
     background: transparent;
     opacity: 1.00;
 }
-.style_External_503_66 {
-    position: relative;
-}
 .style_SkipStroke_3 {
     background: transparent;
     opacity: 1.00;
 }
+.paragraph_style_7 {
+    color: rgb(192, 192, 192);
+    font-family: 'CenturyGothic', 'Century Gothic';
+    font-size: 11px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 14px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_SkipStroke_4 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_External_98_36 {
+    position: relative;
+}
 .style_External_174_74 {
+    position: relative;
+}
+.style_External_115_32 {
     position: relative;
 }
 .Body {
@@ -258,7 +348,19 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
+.graphic_textbox_layout_style_default_External_160_80 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_115_32 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default_External_174_74 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_89_56 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_98_36 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_503_66 {
@@ -277,16 +379,13 @@ a:visited {
     text-decoration: underline;
 }
 a.class1 {
-    color: rgb(66, 66, 66);
     text-decoration: none;
 }
 a.class1:visited {
-    color: rgb(121, 121, 121);
     text-decoration: none;
 }
 a.class1:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
+    text-decoration: none;
 }
 a.class10 {
     text-decoration: none;
@@ -310,25 +409,96 @@ a.class11:hover {
     color: rgb(0, 0, 0);
     text-decoration: underline;
 }
+a.class12 {
+    text-decoration: none;
+}
+a.class12:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+a.class12:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+a.class13 {
+    text-decoration: none;
+}
+a.class13:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+a.class13:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+a.class14 {
+    text-decoration: none;
+}
+a.class14:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+a.class14:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+a.class15 {
+    text-decoration: none;
+}
+a.class15:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+a.class15:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+a.class16 {
+    text-decoration: none;
+}
+a.class16:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+a.class16:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+a.class17 {
+    color: rgb(169, 169, 169);
+    text-decoration: none;
+}
+a.class17:visited {
+    text-decoration: none;
+}
+a.class17:hover {
+    text-decoration: none;
+}
+a.class18 {
+    color: rgb(169, 169, 169);
+    text-decoration: none;
+}
+a.class18:visited {
+    text-decoration: none;
+}
+a.class18:hover {
+    text-decoration: none;
+}
 a.class2 {
-    color: rgb(66, 66, 66);
     text-decoration: none;
 }
 a.class2:visited {
-    color: rgb(121, 121, 121);
-    text-decoration: underline;
+    text-decoration: none;
 }
 a.class2:hover {
     color: rgb(0, 0, 0);
     text-decoration: underline;
 }
 a.class3 {
-    color: rgb(66, 66, 66);
     text-decoration: none;
 }
 a.class3:visited {
-    color: rgb(121, 121, 121);
-    text-decoration: underline;
+    text-decoration: none;
 }
 a.class3:hover {
     color: rgb(0, 0, 0);
@@ -338,8 +508,7 @@ a.class4 {
     text-decoration: none;
 }
 a.class4:visited {
-    color: rgb(121, 121, 121);
-    text-decoration: underline;
+    text-decoration: none;
 }
 a.class4:hover {
     color: rgb(0, 0, 0);
@@ -349,25 +518,26 @@ a.class5 {
     text-decoration: none;
 }
 a.class5:visited {
-    color: rgb(121, 121, 121);
-    text-decoration: underline;
+    text-decoration: none;
 }
 a.class5:hover {
     color: rgb(0, 0, 0);
     text-decoration: underline;
 }
 a.class6 {
+    color: rgb(66, 66, 66);
     text-decoration: none;
 }
 a.class6:visited {
     color: rgb(121, 121, 121);
-    text-decoration: underline;
+    text-decoration: none;
 }
 a.class6:hover {
     color: rgb(0, 0, 0);
     text-decoration: underline;
 }
 a.class7 {
+    color: rgb(66, 66, 66);
     text-decoration: none;
 }
 a.class7:visited {
@@ -379,6 +549,7 @@ a.class7:hover {
     text-decoration: underline;
 }
 a.class8 {
+    color: rgb(66, 66, 66);
     text-decoration: none;
 }
 a.class8:visited {
@@ -404,36 +575,8 @@ a:hover {
     color: rgb(0, 0, 0);
     text-decoration: underline;
 }
-#widget1 a:visited {
-    color: rgb(121, 121, 121);
-    text-decoration: underline;
-}
-#widget0 a:visited {
-    color: rgb(121, 121, 121);
-    text-decoration: underline;
-}
-#widget1 a:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
-}
-.spacer {
-    font-size: 1px;
-    line-height: 1px;
-}
-#widget3 a:visited {
-    color: rgb(121, 121, 121);
-    text-decoration: underline;
-}
 #widget2 a:visited {
     color: rgb(121, 121, 121);
-    text-decoration: underline;
-}
-#widget3 a:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
-}
-#widget0 a {
-    color: rgb(88, 77, 77);
     text-decoration: underline;
 }
 #widget1 a {
@@ -444,13 +587,29 @@ a:hover {
     color: rgb(0, 0, 0);
     text-decoration: underline;
 }
-#widget3 a {
+#widget1 a:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+#widget0 a:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+#widget0 a {
     color: rgb(88, 77, 77);
+    text-decoration: underline;
+}
+#widget1 a:visited {
+    color: rgb(121, 121, 121);
     text-decoration: underline;
 }
 #widget2 a {
     color: rgb(88, 77, 77);
     text-decoration: underline;
+}
+.spacer {
+    font-size: 1px;
+    line-height: 1px;
 }
 #widget2 a:hover {
     color: rgb(0, 0, 0);
