@@ -1,0 +1,538 @@
+.style {
+    padding: 4px;
+}
+.paragraph_style {
+    color: rgb(103, 103, 103);
+    font-family: 'Cochin', 'Times New Roman', serif;
+    font-size: 48px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 61px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_1 {
+    color: rgb(146, 146, 146);
+    line-height: 61px;
+    opacity: 1.00;
+}
+.paragraph_style_1 {
+    color: rgb(0, 0, 0);
+    font-family: 'CenturyGothic', 'Century Gothic';
+    font-size: 18px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_2 {
+    color: rgb(169, 169, 169);
+    font-family: 'CenturyGothic-Italic', 'Century Gothic';
+    font-size: 10px;
+    font-stretch: normal;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 13px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_2 {
+    color: rgb(0, 0, 0);
+    line-height: 13px;
+    opacity: 1.00;
+}
+.paragraph_style_3 {
+    color: rgb(103, 103, 103);
+    font-family: 'CenturyGothic', 'Century Gothic';
+    font-size: 10px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 13px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_3 {
+    color: rgb(0, 0, 0);
+    font-family: 'CenturyGothic-Bold', 'Century Gothic';
+    font-size: 10px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 13px;
+    opacity: 1.00;
+}
+.style_4 {
+    color: rgb(33, 33, 33);
+    font-family: 'CenturyGothic-Bold', 'Century Gothic';
+    font-size: 10px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 13px;
+    opacity: 1.00;
+}
+.style_5 {
+    color: rgb(94, 94, 94);
+    line-height: 13px;
+    opacity: 1.00;
+}
+.style_6 {
+    padding: 4px;
+}
+.paragraph_style_4 {
+    color: rgb(0, 0, 0);
+    font-family: 'CenturyGothic', 'Century Gothic';
+    font-size: 13px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 18px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_5 {
+    color: rgb(103, 103, 103);
+    font-family: 'CenturyGothic', 'Century Gothic';
+    font-size: 13px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 18px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_7 {
+    font-family: 'CenturyGothic-BoldItalic', 'Century Gothic';
+    font-size: 13px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 18px;
+}
+.style_8 {
+    font-family: 'CenturyGothic-Italic', 'Century Gothic';
+    font-size: 13px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 18px;
+}
+.style_9 {
+    font-family: 'CenturyGothic-Bold', 'Century Gothic';
+    font-size: 13px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 18px;
+}
+.style_External_80_32 {
+    position: relative;
+}
+.style_10 {
+    font-family: 'CenturyGothic-Bold', 'Century Gothic';
+    font-size: 13px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 18px;
+}
+.style_External_396_782 {
+    position: relative;
+}
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_External_503_66 {
+    position: relative;
+}
+.style_11 {
+    font-family: 'CenturyGothic-BoldItalic', 'Century Gothic';
+    font-size: 13px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 18px;
+}
+.style_12 {
+    color: rgb(66, 66, 66);
+    line-height: 18px;
+    opacity: 1.00;
+}
+.style_SkipStroke_2 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_3 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_External_109_32 {
+    position: relative;
+}
+.style_External_174_74 {
+    position: relative;
+}
+.style_External_115_32 {
+    position: relative;
+}
+.Body {
+    color: rgb(88, 77, 77);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.Normal {
+    padding: 4px;
+}
+.Normal_External_396_782 {
+    position: relative;
+}
+.graphic_generic_body_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.graphic_image_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.graphic_textbox_layout_style_default {
+    padding: 4px;
+}
+.graphic_textbox_layout_style_default_External_115_32 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_174_74 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_80_32 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_503_66 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_109_32 {
+    position: relative;
+}
+.graphic_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+a {
+    color: rgb(88, 77, 77);
+    text-decoration: underline;
+}
+a:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+a.class1 {
+    color: rgb(66, 66, 66);
+    text-decoration: none;
+}
+a.class1:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: none;
+}
+a.class1:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+a.class10 {
+    text-decoration: none;
+}
+a.class10:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+a.class10:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+a.class11 {
+    text-decoration: none;
+}
+a.class11:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+a.class11:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+a.class2 {
+    color: rgb(66, 66, 66);
+    text-decoration: none;
+}
+a.class2:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+a.class2:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+a.class3 {
+    color: rgb(66, 66, 66);
+    text-decoration: none;
+}
+a.class3:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+a.class3:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+a.class4 {
+    text-decoration: none;
+}
+a.class4:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+a.class4:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+a.class5 {
+    text-decoration: none;
+}
+a.class5:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+a.class5:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+a.class6 {
+    text-decoration: none;
+}
+a.class6:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+a.class6:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+a.class7 {
+    text-decoration: none;
+}
+a.class7:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+a.class7:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+a.class8 {
+    text-decoration: none;
+}
+a.class8:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+a.class8:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+a.class9 {
+    text-decoration: none;
+}
+a.class9:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+a.class9:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+a:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+#widget1 a:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+#widget0 a:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+#widget1 a:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+.spacer {
+    font-size: 1px;
+    line-height: 1px;
+}
+#widget3 a:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+#widget2 a:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+#widget3 a:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+#widget0 a {
+    color: rgb(88, 77, 77);
+    text-decoration: underline;
+}
+#widget1 a {
+    color: rgb(88, 77, 77);
+    text-decoration: underline;
+}
+#widget0 a:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+#widget3 a {
+    color: rgb(88, 77, 77);
+    text-decoration: underline;
+}
+#widget2 a {
+    color: rgb(88, 77, 77);
+    text-decoration: underline;
+}
+#widget2 a:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+.bumper {
+    font-size: 1px;
+    line-height: 1px;
+}
+body { 
+    -webkit-text-size-adjust: none;
+}
+div { 
+    overflow: visible; 
+}
+img { 
+    border: none; 
+}
+.InlineBlock { 
+    display: inline; 
+}
+.InlineBlock { 
+    display: inline-block; 
+}
+.inline-block {
+    display: inline-block;
+    vertical-align: baseline;
+    margin-bottom:0.3em;
+}
+.inline-block.shape-with-text {
+    vertical-align: bottom;
+}
+.vertical-align-middle-middlebox {
+    display: table;
+}
+.vertical-align-middle-innerbox {
+    display: table-cell;
+    vertical-align: middle;
+}
+div.paragraph {
+    position: relative;
+}
+li.full-width {
+    width: 100;
+}
