@@ -30,12 +30,12 @@
 }
 .paragraph_style_1 {
     color: rgb(0, 0, 0);
-    font-family: 'CenturyGothic', 'Century Gothic';
+    font-family: 'CenturyGothic-Bold', 'Century Gothic';
     font-size: 18px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: 400;
+    font-weight: 700;
     letter-spacing: 0;
     line-height: 24px;
     margin-bottom: 0px;
@@ -132,12 +132,12 @@
 }
 .paragraph_style_4 {
     color: rgb(0, 0, 0);
-    font-family: 'CenturyGothic-Bold', 'Century Gothic';
+    font-family: 'CenturyGothic', 'Century Gothic';
     font-size: 18px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: 700;
+    font-weight: 400;
     letter-spacing: 0;
     line-height: 24px;
     margin-bottom: 0px;
@@ -153,11 +153,11 @@
     text-transform: none;
 }
 .style_6 {
-    font-family: 'CenturyGothic-Bold', 'Century Gothic';
+    font-family: 'CenturyGothic', 'Century Gothic';
     font-size: 18px;
     font-stretch: normal;
     font-style: normal;
-    font-weight: 700;
+    font-weight: 400;
     line-height: 24px;
 }
 .style_7 {
@@ -274,6 +274,13 @@
     background: transparent;
     opacity: 1.00;
 }
+.style_External_82_32 {
+    position: relative;
+}
+.style_SkipStroke_4 {
+    background: transparent;
+    opacity: 1.00;
+}
 .paragraph_style_7 {
     color: rgb(192, 192, 192);
     font-family: 'CenturyGothic', 'Century Gothic';
@@ -295,10 +302,6 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
-}
-.style_SkipStroke_4 {
-    background: transparent;
-    opacity: 1.00;
 }
 .style_External_98_36 {
     position: relative;
@@ -354,6 +357,9 @@
 .graphic_textbox_layout_style_default_External_115_32 {
     position: relative;
 }
+.graphic_textbox_layout_style_default_External_82_32 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default_External_174_74 {
     position: relative;
 }
@@ -379,13 +385,15 @@ a:visited {
     text-decoration: underline;
 }
 a.class1 {
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class1:visited {
     text-decoration: none;
 }
 a.class1:hover {
-    text-decoration: none;
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
 }
 a.class10 {
     text-decoration: none;
@@ -485,6 +493,7 @@ a.class18:hover {
     text-decoration: none;
 }
 a.class2 {
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class2:visited {
