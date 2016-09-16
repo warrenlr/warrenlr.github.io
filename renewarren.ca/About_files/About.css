@@ -109,9 +109,6 @@
     line-height: 13px;
     opacity: 1.00;
 }
-.style_External_79_56 {
-    position: relative;
-}
 .style_4 {
     color: rgb(33, 33, 33);
     font-family: 'CenturyGothic-Bold', 'Century Gothic';
@@ -270,12 +267,12 @@
     background: transparent;
     opacity: 1.00;
 }
+.style_External_82_32 {
+    position: relative;
+}
 .style_SkipStroke_3 {
     background: transparent;
     opacity: 1.00;
-}
-.style_External_82_32 {
-    position: relative;
 }
 .style_SkipStroke_4 {
     background: transparent;
@@ -304,6 +301,9 @@
     text-transform: none;
 }
 .style_External_98_36 {
+    position: relative;
+}
+.style_External_79_32 {
     position: relative;
 }
 .style_External_174_74 {
@@ -354,6 +354,9 @@
 .graphic_textbox_layout_style_default_External_160_80 {
     position: relative;
 }
+.graphic_textbox_layout_style_default_External_79_32 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default_External_115_32 {
     position: relative;
 }
@@ -367,9 +370,6 @@
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_503_66 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_79_56 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
