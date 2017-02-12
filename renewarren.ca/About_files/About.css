@@ -397,6 +397,7 @@ a.class1 {
     text-decoration: none;
 }
 a.class1:visited {
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class1:hover {
@@ -485,6 +486,7 @@ a.class17 {
     text-decoration: none;
 }
 a.class17:visited {
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class17:hover {
@@ -516,6 +518,7 @@ a.class2 {
     text-decoration: none;
 }
 a.class2:visited {
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class2:hover {
