@@ -81,8 +81,10 @@ a:hover {
 <OPTION VALUE=http://www.frqs.gouv.qc.ca/>1996 - Scholarship recipient from Fonds de la recherche en sante Quebec (FRSQ)</OPTION>
 <OPTION VALUE=http://www.nasa.gov/mission_pages/shuttle/shuttlemissions/archives/sts-69.html>1995 - Worked at NASA with the purpose of crystallizing proteins under microgravity</OPTION>
 </SELECT>
-</td>
-<td align=center>
+</td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td align=center>
 <H2>PUBLICATIONS</H2>
 <SELECT onChange='top.location.href=this.options[selectedIndex].value;' Size='1' WIDTH='190' STYLE='width: 190px'>
 <OPTION VALUE=https://warrenlr.github.io/papers/>Select</OPTION>
@@ -159,7 +161,7 @@ construction</OPTION>
 <OPTION VALUE=https://warrenlr.github.io/papers/cng1999.html>1999 -paper- cGMP channels and peripherin complex of rod cells</OPTION>
 <OPTION VALUE=https://warrenlr.github.io/papers/1997_nkx_emboj.pdf>1997 -paper- The cardiac transcription factors Nkx2-5+GATA-4 are cofactors</OPTION>
 </SELECT>
-</td></tr>
+</td>
 <tr><td>&nbsp;</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td>&nbsp;</td></tr>
