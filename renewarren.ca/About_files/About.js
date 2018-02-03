@@ -6,4 +6,4 @@ function hostedOnDM()
 {return false;}
 function onPageLoad()
 {loadMozillaCSS('About_files/AboutMoz.css')
-adjustLineHeightIfTooBig('id1');adjustFontSizeIfTooBig('id1');adjustLineHeightIfTooBig('id2');adjustFontSizeIfTooBig('id2');fixAllIEPNGs('Media/transparent.gif');IMpreload('About_files','shapeimage_1','0');IMpreload('About_files','shapeimage_1','1');IMpreload('About_files','shapeimage_1','2');IMpreload('About_files','shapeimage_1','3');IMpreload('About_files','shapeimage_1','4');IMpreload('About_files','shapeimage_1','5');IMpreload('About_files','shapeimage_2','0');applyEffects()}
+adjustLineHeightIfTooBig('id1');adjustFontSizeIfTooBig('id1');adjustLineHeightIfTooBig('id2');adjustFontSizeIfTooBig('id2');fixAllIEPNGs('Media/transparent.gif');IMpreload('About_files','shapeimage_2','0');IMpreload('About_files','shapeimage_2','1');IMpreload('About_files','shapeimage_2','2');IMpreload('About_files','shapeimage_2','3');IMpreload('About_files','shapeimage_2','4');IMpreload('About_files','shapeimage_2','5');IMpreload('About_files','shapeimage_3','0');applyEffects()}
