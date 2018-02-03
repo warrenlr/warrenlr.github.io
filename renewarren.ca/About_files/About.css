@@ -3,14 +3,14 @@
 }
 .paragraph_style {
     color: rgb(0, 0, 0);
-    font-family: 'Cochin-Bold', 'Cochin', 'Times New Roman', serif;
-    font-size: 82px;
+    font-family: 'CenturyGothic', 'Century Gothic';
+    font-size: 77px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: 700;
+    font-weight: 400;
     letter-spacing: 0;
-    line-height: 106px;
+    line-height: 103px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -48,13 +48,13 @@
 .paragraph_style_2 {
     color: rgb(0, 0, 0);
     font-family: 'CenturyGothic-Bold', 'Century Gothic';
-    font-size: 20px;
+    font-size: 26px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 700;
     letter-spacing: 0;
-    line-height: 26px;
+    line-height: 35px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -74,13 +74,13 @@
 .paragraph_style_3 {
     color: rgb(0, 0, 0);
     font-family: 'CenturyGothic-Bold', 'Century Gothic';
-    font-size: 20px;
+    font-size: 26px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 700;
     letter-spacing: 0;
-    line-height: 26px;
+    line-height: 35px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -95,20 +95,20 @@
 }
 .style_1 {
     font-family: 'CenturyGothic-Bold', 'Century Gothic';
-    font-size: 15px;
+    font-size: 17px;
     font-stretch: normal;
     font-style: normal;
     font-weight: 700;
-    line-height: 30px;
-    vertical-align: 12px;
+    line-height: 35px;
+    vertical-align: 14px;
 }
 .style_2 {
     font-family: 'CenturyGothic-Bold', 'Century Gothic';
-    font-size: 20px;
+    font-size: 26px;
     font-stretch: normal;
     font-style: normal;
     font-weight: 700;
-    line-height: 26px;
+    line-height: 35px;
 }
 .style_External_98_41 {
     position: relative;
@@ -120,13 +120,13 @@
 .paragraph_style_4 {
     color: rgb(0, 0, 0);
     font-family: 'CenturyGothic-Bold', 'Century Gothic';
-    font-size: 14px;
+    font-size: 16px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 700;
     letter-spacing: 0;
-    line-height: 19px;
+    line-height: 22px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -143,10 +143,10 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_External_160_280 {
+.style_External_353_329 {
     position: relative;
 }
-.style_External_577_109 {
+.style_External_601_107 {
     position: relative;
 }
 .Body {
@@ -178,13 +178,13 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_160_280 {
+.graphic_textbox_layout_style_default_External_353_329 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_98_41 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_577_109 {
+.graphic_textbox_layout_style_default_External_601_107 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_569_77 {
