@@ -52,6 +52,35 @@
     text-indent: 0px;
     text-transform: none;
 }
+.paragraph_style_2 {
+    color: rgb(0, 0, 0);
+    font-family: 'CenturyGothic-Bold', 'Century Gothic';
+    font-size: 16px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 22px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_SkipStroke_2 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_External_98_41 {
+    position: relative;
+}
 .style_SkipStroke {
     background: transparent;
     opacity: 1.00;
@@ -88,6 +117,9 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
+.graphic_textbox_layout_style_default_External_98_41 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default_External_601_107 {
     position: relative;
 }
@@ -123,6 +155,18 @@ a.class2:visited {
     text-decoration: none;
 }
 a.class2:hover {
+    text-decoration: none;
+}
+a.class3 {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class3:visited {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class3:hover {
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a:hover {
