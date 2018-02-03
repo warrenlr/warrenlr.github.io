@@ -23,6 +23,13 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_External_601_107 {
+    position: relative;
+}
 .paragraph_style_1 {
     color: rgb(0, 0, 0);
     font-family: 'CenturyGothic', 'Century Gothic';
@@ -45,109 +52,9 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_2 {
-    color: rgb(0, 0, 0);
-    font-family: 'CenturyGothic-Bold', 'Century Gothic';
-    font-size: 26px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 700;
-    letter-spacing: 0;
-    line-height: 35px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.style_SkipStroke_1 {
-    background: transparent;
-    opacity: 1.00;
-}
-.paragraph_style_3 {
-    color: rgb(0, 0, 0);
-    font-family: 'CenturyGothic-Bold', 'Century Gothic';
-    font-size: 26px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 700;
-    letter-spacing: 0;
-    line-height: 35px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.style_1 {
-    font-family: 'CenturyGothic-Bold', 'Century Gothic';
-    font-size: 17px;
-    font-stretch: normal;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 35px;
-    vertical-align: 14px;
-}
-.style_2 {
-    font-family: 'CenturyGothic-Bold', 'Century Gothic';
-    font-size: 26px;
-    font-stretch: normal;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 35px;
-}
-.style_External_98_41 {
-    position: relative;
-}
 .style_SkipStroke {
     background: transparent;
     opacity: 1.00;
-}
-.paragraph_style_4 {
-    color: rgb(0, 0, 0);
-    font-family: 'CenturyGothic-Bold', 'Century Gothic';
-    font-size: 16px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 700;
-    letter-spacing: 0;
-    line-height: 22px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: center;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.style_SkipStroke_2 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_External_353_329 {
-    position: relative;
-}
-.style_External_601_107 {
-    position: relative;
 }
 .Body {
     color: rgb(88, 77, 77);
@@ -175,19 +82,13 @@
     background: transparent;
     opacity: 1.00;
 }
+.graphic_textbox_layout_style_default_External_569_77 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_353_329 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_98_41 {
-    position: relative;
-}
 .graphic_textbox_layout_style_default_External_601_107 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_569_77 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
@@ -222,90 +123,6 @@ a.class2:visited {
     text-decoration: none;
 }
 a.class2:hover {
-    text-decoration: none;
-}
-a.class3 {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
-}
-a.class3:visited {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
-}
-a.class3:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
-}
-a.class4 {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
-}
-a.class4:visited {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
-}
-a.class4:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
-}
-a.class5 {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
-}
-a.class5:visited {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
-}
-a.class5:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
-}
-a.class6 {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
-}
-a.class6:visited {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
-}
-a.class6:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
-}
-a.class7 {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
-}
-a.class7:visited {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
-}
-a.class7:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
-}
-a.class8 {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
-}
-a.class8:visited {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
-}
-a.class8:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
-}
-a.class9 {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
-}
-a.class9:visited {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
-}
-a.class9:hover {
-    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a:hover {
