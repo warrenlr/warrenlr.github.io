@@ -60,16 +60,19 @@
 .style_External_639_118 {
     position: relative;
 }
+.style_External_429_448 {
+    position: relative;
+}
 .paragraph_style_2 {
     color: rgb(0, 0, 0);
-    font-family: 'TimesNewRomanPS-BoldMT', 'Times New Roman', serif;
-    font-size: 39px;
+    font-family: 'Georgia-Bold', 'Georgia', serif;
+    font-size: 32px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 700;
     letter-spacing: 0;
-    line-height: 49px;
+    line-height: 40px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -83,24 +86,24 @@
     text-transform: none;
 }
 .style_2 {
-    font-family: 'TimesNewRomanPS-BoldMT', 'Times New Roman', serif;
-    font-size: 26px;
+    font-family: 'Georgia-Bold', 'Georgia', serif;
+    font-size: 21px;
     font-stretch: normal;
     font-style: normal;
     font-weight: 700;
-    line-height: 49px;
-    vertical-align: 17px;
+    line-height: 40px;
+    vertical-align: 15px;
 }
 .paragraph_style_3 {
     color: rgb(0, 0, 0);
-    font-family: 'TimesNewRomanPS-BoldMT', 'Times New Roman', serif;
-    font-size: 39px;
+    font-family: 'Georgia-Bold', 'Georgia', serif;
+    font-size: 32px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 700;
     letter-spacing: 0;
-    line-height: 49px;
+    line-height: 40px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -112,9 +115,6 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
-}
-.style_External_429_501 {
-    position: relative;
 }
 .style_SkipStroke {
     background: transparent;
@@ -155,7 +155,7 @@
 .graphic_textbox_layout_style_default_External_624_62 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_429_501 {
+.graphic_textbox_layout_style_default_External_429_448 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_125_251 {
