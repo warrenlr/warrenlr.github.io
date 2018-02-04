@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  <id>urn:iweb:FC80106F-6FD2-46A1-9FFC-EF3B51823005</id>
  <title>Page list Atom feed</title>
- <updated>2018-02-04T09:39:22-08:00</updated>
+ <updated>2018-02-04T09:43:40-08:00</updated>
  <link rel="self" href="feed.xml"/>
  <generator>iWeb</generator>
  <author>
@@ -14,7 +14,7 @@
   <title xmlns="urn:iweb:">ReneWarren</title>
   <in-navbar xmlns="urn:iweb:">71007431-CF7C-4B53-9DE9-AD4D85BF8B77</in-navbar>
   <link rel="alternate" href="ReneWarren.html"/>
-  <updated>2018-02-04T09:39:22.001-08:00</updated>
+  <updated>2018-02-04T09:43:40.001-08:00</updated>
   <content>ReneWarren</content>
  </entry>
  <entry>
@@ -23,7 +23,7 @@
   <title xmlns="urn:iweb:">About</title>
   <in-navbar xmlns="urn:iweb:">FEF0C850-E2F4-4E8B-A1B9-87607323C08A</in-navbar>
   <link rel="alternate" href="About.html"/>
-  <updated>2018-02-04T09:39:22.002-08:00</updated>
+  <updated>2018-02-04T09:43:40.002-08:00</updated>
   <content>About</content>
  </entry>
  <entry>
@@ -32,7 +32,7 @@
   <title xmlns="urn:iweb:">About2017</title>
   <in-navbar xmlns="urn:iweb:">87CF93FC-4D59-42B8-9EBF-70AB983AACED</in-navbar>
   <link rel="alternate" href="About2017.html"/>
-  <updated>2018-02-04T09:39:22.003-08:00</updated>
+  <updated>2018-02-04T09:43:40.003-08:00</updated>
   <content>About2017</content>
  </entry>
  <entry>
@@ -41,7 +41,7 @@
   <title xmlns="urn:iweb:">Photo</title>
   <in-navbar xmlns="urn:iweb:">8057E974-0A62-497F-AA1B-BBE6D587879B</in-navbar>
   <link rel="alternate" href="Photo.html"/>
-  <updated>2018-02-04T09:39:22.004-08:00</updated>
+  <updated>2018-02-04T09:43:40.004-08:00</updated>
   <content>Photo</content>
  </entry>
  <entry>
@@ -50,7 +50,7 @@
   <title xmlns="urn:iweb:">Video</title>
   <in-navbar xmlns="urn:iweb:">716F7B18-0987-40CB-B349-83BE2ABEC94B</in-navbar>
   <link rel="alternate" href="Video.html"/>
-  <updated>2018-02-04T09:39:22.005-08:00</updated>
+  <updated>2018-02-04T09:43:40.005-08:00</updated>
   <content>Video</content>
  </entry>
 </feed>
