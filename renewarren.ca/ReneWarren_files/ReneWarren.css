@@ -4,13 +4,13 @@
 .paragraph_style {
     color: rgb(0, 0, 0);
     font-family: 'Georgia', serif;
-    font-size: 90px;
+    font-size: 100px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
-    line-height: 113px;
+    line-height: 125px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -49,18 +49,18 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_External_697_128 {
+    position: relative;
+}
 .style_1 {
     font-family: 'Georgia', serif;
-    font-size: 38px;
+    font-size: 42px;
     font-stretch: normal;
     font-style: normal;
     font-weight: 400;
-    line-height: 47px;
+    line-height: 53px;
 }
-.style_External_639_118 {
-    position: relative;
-}
-.style_External_429_448 {
+.style_External_516_448 {
     position: relative;
 }
 .paragraph_style_2 {
@@ -146,16 +146,16 @@
     background: transparent;
     opacity: 1.00;
 }
+.graphic_textbox_layout_style_default_External_697_128 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_639_118 {
+.graphic_textbox_layout_style_default_External_690_65 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_624_62 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_429_448 {
+.graphic_textbox_layout_style_default_External_516_448 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_125_251 {
