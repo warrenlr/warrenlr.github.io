@@ -271,12 +271,12 @@
 }
 .paragraph_style_7 {
     color: rgb(0, 0, 0);
-    font-family: 'CenturyGothic', 'Century Gothic';
+    font-family: 'CenturyGothic-Bold', 'Century Gothic';
     font-size: 13px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: 400;
+    font-weight: 700;
     letter-spacing: 0;
     line-height: 18px;
     margin-bottom: 0px;
@@ -286,7 +286,7 @@
     opacity: 1.00;
     padding-bottom: 0px;
     padding-top: 0px;
-    text-align: justify;
+    text-align: center;
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
