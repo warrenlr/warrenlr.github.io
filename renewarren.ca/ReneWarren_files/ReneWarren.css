@@ -53,6 +53,10 @@
     font-weight: 400;
     line-height: 53px;
 }
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
 .paragraph_style_2 {
     color: rgb(0, 0, 0);
     font-family: 'Georgia-Bold', 'Georgia', serif;
@@ -132,10 +136,10 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_External_516_508 {
+.style_External_98_36 {
     position: relative;
 }
-.style_External_98_36 {
+.style_External_471_493 {
     position: relative;
 }
 .style_External_697_145 {
@@ -163,6 +167,10 @@
     text-indent: 0px;
     text-transform: none;
 }
+.graphic_image_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
@@ -172,10 +180,10 @@
 .graphic_textbox_layout_style_default_External_690_65 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_697_145 {
+.graphic_textbox_layout_style_default_External_471_493 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_516_508 {
+.graphic_textbox_layout_style_default_External_697_145 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_98_36 {
