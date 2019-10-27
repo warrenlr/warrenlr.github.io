@@ -53,10 +53,6 @@
     font-weight: 400;
     line-height: 53px;
 }
-.style_SkipStroke_1 {
-    background: transparent;
-    opacity: 1.00;
-}
 .paragraph_style_2 {
     color: rgb(0, 0, 0);
     font-family: 'Georgia-Bold', 'Georgia', serif;
@@ -166,10 +162,6 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
-}
-.graphic_image_style_default_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
 }
 .graphic_textbox_layout_style_default {
     padding: 4px;
