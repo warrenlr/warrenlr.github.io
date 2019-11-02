@@ -224,18 +224,18 @@
     opacity: 1.00;
 }
 a {
-    color: rgb(0, 0, 0);
+    color: rgb(66, 66, 66);
     text-decoration: none;
 }
 a:visited {
-    color: rgb(0, 0, 0);
+    color: rgb(66, 66, 66);
     text-decoration: none;
 }
 a.class1 {
     color: rgb(66, 66, 66);
 }
 a.class1:visited {
-    color: rgb(0, 0, 0);
+    color: rgb(66, 66, 66);
     text-decoration: none;
 }
 a.class1:hover {
@@ -255,7 +255,7 @@ a.class2 {
     color: rgb(66, 66, 66);
 }
 a.class2:visited {
-    color: rgb(0, 0, 0);
+    color: rgb(66, 66, 66);
     text-decoration: none;
 }
 a.class2:hover {
@@ -265,8 +265,7 @@ a.class3 {
     color: rgb(66, 66, 66);
 }
 a.class3:visited {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
+    color: rgb(66, 66, 66);
 }
 a.class3:hover {
     text-decoration: none;
@@ -275,7 +274,7 @@ a.class4 {
     color: rgb(66, 66, 66);
 }
 a.class4:visited {
-    color: rgb(0, 0, 0);
+    color: rgb(66, 66, 66);
     text-decoration: none;
 }
 a.class4:hover {
@@ -285,7 +284,7 @@ a.class5 {
     color: rgb(66, 66, 66);
 }
 a.class5:visited {
-    color: rgb(0, 0, 0);
+    color: rgb(66, 66, 66);
     text-decoration: none;
 }
 a.class5:hover {
@@ -295,7 +294,7 @@ a.class6 {
     color: rgb(66, 66, 66);
 }
 a.class6:visited {
-    color: rgb(0, 0, 0);
+    color: rgb(66, 66, 66);
     text-decoration: none;
 }
 a.class6:hover {
@@ -305,7 +304,7 @@ a.class7 {
     color: rgb(66, 66, 66);
 }
 a.class7:visited {
-    color: rgb(0, 0, 0);
+    color: rgb(66, 66, 66);
     text-decoration: none;
 }
 a.class7:hover {
@@ -315,7 +314,7 @@ a.class8 {
     color: rgb(66, 66, 66);
 }
 a.class8:visited {
-    color: rgb(0, 0, 0);
+    color: rgb(66, 66, 66);
     text-decoration: none;
 }
 a.class8:hover {
@@ -333,7 +332,7 @@ a.class9:hover {
 }
 a:hover {
     color: rgb(0, 0, 0);
-    text-decoration: underline;
+    text-decoration: none;
 }
 .bumper {
     font-size: 1px;
@@ -341,14 +340,14 @@ a:hover {
 }
 #widget0 a:hover {
     color: rgb(0, 0, 0);
-    text-decoration: underline;
+    text-decoration: none;
 }
 #widget0 a:visited {
-    color: rgb(0, 0, 0);
+    color: rgb(66, 66, 66);
     text-decoration: none;
 }
 #widget0 a {
-    color: rgb(0, 0, 0);
+    color: rgb(66, 66, 66);
     text-decoration: none;
 }
 .spacer {
