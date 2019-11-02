@@ -57,8 +57,16 @@
     background: transparent;
     opacity: 1.00;
 }
+.style_2 {
+    font-family: 'Georgia', serif;
+    font-size: 42px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 53px;
+}
 .paragraph_style_2 {
-    color: rgb(0, 0, 0);
+    color: rgb(214, 214, 214);
     font-family: 'Georgia-Bold', 'Georgia', serif;
     font-size: 36px;
     font-stretch: normal;
@@ -79,7 +87,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_2 {
+.style_3 {
     font-family: 'Georgia-Bold', 'Georgia', serif;
     font-size: 24px;
     font-stretch: normal;
@@ -88,8 +96,12 @@
     line-height: 45px;
     vertical-align: 16px;
 }
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
 .paragraph_style_3 {
-    color: rgb(0, 0, 0);
+    color: rgb(33, 33, 33);
     font-family: 'Georgia-Bold', 'Georgia', serif;
     font-size: 36px;
     font-stretch: normal;
@@ -110,11 +122,29 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
-}
 .paragraph_style_4 {
+    color: rgb(214, 214, 214);
+    font-family: 'Georgia-Bold', 'Georgia', serif;
+    font-size: 36px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 45px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: right;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_5 {
     color: rgb(192, 192, 192);
     font-family: 'CenturyGothic', 'Century Gothic';
     font-size: 11px;
@@ -202,8 +232,7 @@ a:visited {
     text-decoration: none;
 }
 a.class1 {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
+    color: rgb(66, 66, 66);
 }
 a.class1:visited {
     color: rgb(0, 0, 0);
@@ -222,19 +251,8 @@ a.class10:visited {
 a.class10:hover {
     text-decoration: none;
 }
-a.class11 {
-    color: rgb(169, 169, 169);
-    text-decoration: none;
-}
-a.class11:visited {
-    text-decoration: none;
-}
-a.class11:hover {
-    text-decoration: none;
-}
 a.class2 {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
+    color: rgb(66, 66, 66);
 }
 a.class2:visited {
     color: rgb(0, 0, 0);
@@ -244,8 +262,7 @@ a.class2:hover {
     text-decoration: none;
 }
 a.class3 {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
+    color: rgb(66, 66, 66);
 }
 a.class3:visited {
     color: rgb(0, 0, 0);
@@ -255,76 +272,64 @@ a.class3:hover {
     text-decoration: none;
 }
 a.class4 {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
+    color: rgb(66, 66, 66);
 }
 a.class4:visited {
     color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class4:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
+    text-decoration: none;
 }
 a.class5 {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
+    color: rgb(66, 66, 66);
 }
 a.class5:visited {
     color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class5:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
+    text-decoration: none;
 }
 a.class6 {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
+    color: rgb(66, 66, 66);
 }
 a.class6:visited {
     color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class6:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
+    text-decoration: none;
 }
 a.class7 {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
+    color: rgb(66, 66, 66);
 }
 a.class7:visited {
     color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class7:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
+    text-decoration: none;
 }
 a.class8 {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
+    color: rgb(66, 66, 66);
 }
 a.class8:visited {
     color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class8:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
+    text-decoration: none;
 }
 a.class9 {
-    color: rgb(0, 0, 0);
+    color: rgb(169, 169, 169);
     text-decoration: none;
 }
 a.class9:visited {
-    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class9:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
+    text-decoration: none;
 }
 a:hover {
     color: rgb(0, 0, 0);

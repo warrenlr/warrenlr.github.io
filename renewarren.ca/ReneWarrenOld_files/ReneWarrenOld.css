@@ -222,6 +222,16 @@ a.class10:visited {
 a.class10:hover {
     text-decoration: none;
 }
+a.class11 {
+    color: rgb(169, 169, 169);
+    text-decoration: none;
+}
+a.class11:visited {
+    text-decoration: none;
+}
+a.class11:hover {
+    text-decoration: none;
+}
 a.class2 {
     color: rgb(0, 0, 0);
     text-decoration: none;
@@ -242,8 +252,7 @@ a.class3:visited {
     text-decoration: none;
 }
 a.class3:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
+    text-decoration: none;
 }
 a.class4 {
     color: rgb(0, 0, 0);
@@ -306,14 +315,16 @@ a.class8:hover {
     text-decoration: underline;
 }
 a.class9 {
-    color: rgb(169, 169, 169);
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class9:visited {
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class9:hover {
-    text-decoration: none;
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
 }
 a:hover {
     color: rgb(0, 0, 0);
