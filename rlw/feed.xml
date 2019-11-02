@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:FC80106F-6FD2-46A1-9FFC-EF3B51823005</id>
+ <title>Page list Atom feed</title>
+ <updated>2019-11-02T16:31:55-07:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:C81BB0F1-3F49-4A1D-840C-0480DC973FF8</id>
+  <title>ReneWarren</title>
+  <title xmlns="urn:iweb:">ReneWarren</title>
+  <in-navbar xmlns="urn:iweb:">C81BB0F1-3F49-4A1D-840C-0480DC973FF8</in-navbar>
+  <link rel="alternate" href="ReneWarren.html"/>
+  <updated>2019-11-02T16:31:55.001-07:00</updated>
+  <content>ReneWarren</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:1FE45108-824F-47FB-B1BE-8C140F0ED172</id>
+  <title>ReneWarrenBroken</title>
+  <title xmlns="urn:iweb:">ReneWarrenBroken</title>
+  <in-navbar xmlns="urn:iweb:">1FE45108-824F-47FB-B1BE-8C140F0ED172</in-navbar>
+  <link rel="alternate" href="ReneWarrenBroken.html"/>
+  <updated>2019-11-02T16:31:55.002-07:00</updated>
+  <content>ReneWarrenBroken</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:FD9A0DE2-A372-462A-BFA9-48EFFA035889</id>
+  <title>ReneWarrenCircle</title>
+  <title xmlns="urn:iweb:">ReneWarrenCircle</title>
+  <in-navbar xmlns="urn:iweb:">FD9A0DE2-A372-462A-BFA9-48EFFA035889</in-navbar>
+  <link rel="alternate" href="ReneWarrenCircle.html"/>
+  <updated>2019-11-02T16:31:55.003-07:00</updated>
+  <content>ReneWarrenCircle</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:87CF93FC-4D59-42B8-9EBF-70AB983AACED</id>
+  <title>About</title>
+  <title xmlns="urn:iweb:">About</title>
+  <in-navbar xmlns="urn:iweb:">87CF93FC-4D59-42B8-9EBF-70AB983AACED</in-navbar>
+  <link rel="alternate" href="About.html"/>
+  <updated>2019-11-02T16:31:55.004-07:00</updated>
+  <content>About</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:8057E974-0A62-497F-AA1B-BBE6D587879B</id>
+  <title>Photo</title>
+  <title xmlns="urn:iweb:">Photo</title>
+  <in-navbar xmlns="urn:iweb:">8057E974-0A62-497F-AA1B-BBE6D587879B</in-navbar>
+  <link rel="alternate" href="Photo.html"/>
+  <updated>2019-11-02T16:31:55.005-07:00</updated>
+  <content>Photo</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:716F7B18-0987-40CB-B349-83BE2ABEC94B</id>
+  <title>Video</title>
+  <title xmlns="urn:iweb:">Video</title>
+  <in-navbar xmlns="urn:iweb:">716F7B18-0987-40CB-B349-83BE2ABEC94B</in-navbar>
+  <link rel="alternate" href="Video.html"/>
+  <updated>2019-11-02T16:31:55.006-07:00</updated>
+  <content>Video</content>
+ </entry>
+</feed>
