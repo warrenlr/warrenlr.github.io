@@ -2,15 +2,15 @@
     padding: 4px;
 }
 .paragraph_style {
-    color: rgb(192, 192, 192);
-    font-family: 'CenturyGothic', 'Century Gothic';
-    font-size: 38px;
+    color: rgb(0, 0, 0);
+    font-family: 'Georgia', serif;
+    font-size: 115px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
-    line-height: 51px;
+    line-height: 143px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -24,15 +24,15 @@
     text-transform: none;
 }
 .paragraph_style_1 {
-    color: rgb(192, 192, 192);
-    font-family: 'CenturyGothic', 'Century Gothic';
-    font-size: 105px;
+    color: rgb(0, 0, 0);
+    font-family: 'Georgia', serif;
+    font-size: 28px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
-    line-height: 142px;
+    line-height: 35px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -45,69 +45,74 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_External_690_57 {
-    position: relative;
+.style_1 {
+    font-family: 'Georgia', serif;
+    font-size: 42px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 53px;
 }
 .style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
 }
-.style_External_303_76 {
-    position: relative;
+.paragraph_style_2 {
+    color: rgb(0, 0, 0);
+    font-family: 'Georgia-Bold', 'Georgia', serif;
+    font-size: 36px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 45px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_2 {
+    font-family: 'Georgia-Bold', 'Georgia', serif;
+    font-size: 24px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 45px;
+    vertical-align: 16px;
+}
+.paragraph_style_3 {
+    color: rgb(0, 0, 0);
+    font-family: 'Georgia-Bold', 'Georgia', serif;
+    font-size: 36px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 45px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: right;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
 }
 .style_SkipStroke {
     background: transparent;
     opacity: 1.00;
-}
-.paragraph_style_2 {
-    color: rgb(66, 66, 66);
-    font-family: 'CenturyGothic', 'Century Gothic';
-    font-size: 38px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 51px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: center;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.style_External_98_39 {
-    position: relative;
-}
-.paragraph_style_3 {
-    color: rgb(192, 192, 192);
-    font-family: 'CenturyGothic', 'Century Gothic';
-    font-size: 24px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 32px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: center;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.style_External_98_36 {
-    position: relative;
 }
 .paragraph_style_4 {
     color: rgb(192, 192, 192);
@@ -131,13 +136,13 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_External_698_144 {
+.style_External_98_36 {
     position: relative;
 }
-.style_External_192_75 {
+.style_External_506_508 {
     position: relative;
 }
-.style_External_180_75 {
+.style_External_697_145 {
     position: relative;
 }
 .Body {
@@ -169,25 +174,19 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_690_57 {
+.graphic_textbox_layout_style_default_External_147_277 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_192_75 {
+.graphic_textbox_layout_style_default_External_690_65 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_698_144 {
+.graphic_textbox_layout_style_default_External_697_145 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_506_508 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_98_36 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_98_39 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_303_76 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_180_75 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
@@ -203,9 +202,11 @@ a:visited {
     text-decoration: none;
 }
 a.class1 {
-    color: rgb(66, 66, 66);
+    color: rgb(0, 0, 0);
+    text-decoration: none;
 }
 a.class1:visited {
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class1:hover {
@@ -232,7 +233,8 @@ a.class11:hover {
     text-decoration: none;
 }
 a.class2 {
-    color: rgb(66, 66, 66);
+    color: rgb(0, 0, 0);
+    text-decoration: none;
 }
 a.class2:visited {
     color: rgb(0, 0, 0);
@@ -242,67 +244,87 @@ a.class2:hover {
     text-decoration: none;
 }
 a.class3 {
-    color: rgb(66, 66, 66);
+    color: rgb(0, 0, 0);
+    text-decoration: none;
 }
 a.class3:visited {
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class3:hover {
     text-decoration: none;
 }
 a.class4 {
-    color: rgb(66, 66, 66);
+    color: rgb(0, 0, 0);
+    text-decoration: none;
 }
 a.class4:visited {
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class4:hover {
-    text-decoration: none;
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
 }
 a.class5 {
-    color: rgb(66, 66, 66);
+    color: rgb(0, 0, 0);
+    text-decoration: none;
 }
 a.class5:visited {
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class5:hover {
-    text-decoration: none;
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
 }
 a.class6 {
-    color: rgb(66, 66, 66);
+    color: rgb(0, 0, 0);
+    text-decoration: none;
 }
 a.class6:visited {
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class6:hover {
-    text-decoration: none;
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
 }
 a.class7 {
-    color: rgb(66, 66, 66);
+    color: rgb(0, 0, 0);
+    text-decoration: none;
 }
 a.class7:visited {
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class7:hover {
-    text-decoration: none;
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
 }
 a.class8 {
-    color: rgb(66, 66, 66);
+    color: rgb(0, 0, 0);
+    text-decoration: none;
 }
 a.class8:visited {
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class8:hover {
-    text-decoration: none;
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
 }
 a.class9 {
-    color: rgb(66, 66, 66);
+    color: rgb(0, 0, 0);
+    text-decoration: none;
 }
 a.class9:visited {
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class9:hover {
-    text-decoration: none;
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
 }
 a:hover {
     color: rgb(0, 0, 0);
