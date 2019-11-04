@@ -272,7 +272,8 @@ a.class2:hover {
     text-decoration: none;
 }
 a.class3 {
-    color: rgb(66, 66, 66);
+    color: rgb(0, 0, 0);
+    text-decoration: none;
 }
 a.class3:visited {
     text-decoration: none;
