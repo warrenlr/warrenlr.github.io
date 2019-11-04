@@ -45,12 +45,34 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_External_303_72 {
-    position: relative;
+.paragraph_style_2 {
+    color: rgb(192, 192, 192);
+    font-family: 'CenturyGothic-Bold', 'Century Gothic';
+    font-size: 40px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 54px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
 }
 .style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
+}
+.style_External_303_72 {
+    position: relative;
 }
 .style_External_700_60 {
     position: relative;
@@ -62,14 +84,14 @@
     background: transparent;
     opacity: 1.00;
 }
-.paragraph_style_2 {
+.paragraph_style_3 {
     color: rgb(66, 66, 66);
-    font-family: 'CenturyGothic', 'Century Gothic';
+    font-family: 'CenturyGothic-Bold', 'Century Gothic';
     font-size: 40px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: 400;
+    font-weight: 700;
     letter-spacing: 0;
     line-height: 54px;
     margin-bottom: 0px;
@@ -87,14 +109,14 @@
 .style_External_98_44 {
     position: relative;
 }
-.paragraph_style_3 {
+.paragraph_style_4 {
     color: rgb(192, 192, 192);
-    font-family: 'CenturyGothic', 'Century Gothic';
+    font-family: 'CenturyGothic-Bold', 'Century Gothic';
     font-size: 28px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: 400;
+    font-weight: 700;
     letter-spacing: 0;
     line-height: 37px;
     margin-bottom: 0px;
@@ -112,7 +134,7 @@
 .style_External_98_36 {
     position: relative;
 }
-.paragraph_style_4 {
+.paragraph_style_5 {
     color: rgb(192, 192, 192);
     font-family: 'CenturyGothic', 'Century Gothic';
     font-size: 11px;
