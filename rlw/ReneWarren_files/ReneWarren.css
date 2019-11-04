@@ -79,6 +79,12 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_External_337_62 {
+    position: relative;
+}
+.style_External_378_62 {
+    position: relative;
+}
 .style_SkipStroke {
     background: transparent;
     opacity: 1.00;
@@ -164,9 +170,6 @@
 .style_External_192_75 {
     position: relative;
 }
-.style_External_718_62 {
-    position: relative;
-}
 .style_External_180_75 {
     position: relative;
 }
@@ -199,6 +202,9 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
+.graphic_textbox_layout_style_default_External_378_62 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default_External_192_75 {
     position: relative;
 }
@@ -211,13 +217,13 @@
 .graphic_textbox_layout_style_default_External_726_154 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_718_62 {
-    position: relative;
-}
 .graphic_textbox_layout_style_default_External_180_75 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_303_72 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_337_62 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
@@ -262,18 +268,17 @@ a.class11:hover {
     text-decoration: none;
 }
 a.class2 {
-    color: rgb(66, 66, 66);
+    color: rgb(0, 0, 0);
+    text-decoration: none;
 }
 a.class2:visited {
-    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class2:hover {
     text-decoration: none;
 }
 a.class3 {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
+    color: rgb(66, 66, 66);
 }
 a.class3:visited {
     text-decoration: none;
