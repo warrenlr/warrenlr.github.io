@@ -24,15 +24,15 @@
     text-transform: none;
 }
 .paragraph_style_1 {
-    color: rgb(0, 0, 0);
+    color: rgb(94, 94, 94);
     font-family: 'Georgia', serif;
-    font-size: 28px;
+    font-size: 42px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
-    line-height: 35px;
+    line-height: 53px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -46,25 +46,12 @@
     text-transform: none;
 }
 .style_1 {
-    font-family: 'Georgia', serif;
-    font-size: 42px;
-    font-stretch: normal;
-    font-style: normal;
-    font-weight: 400;
+    color: rgb(192, 192, 192);
     line-height: 53px;
+    opacity: 1.00;
 }
 .style_SkipStroke_1 {
     background: transparent;
-    opacity: 1.00;
-}
-.style_2 {
-    color: rgb(214, 214, 214);
-    font-family: 'Georgia', serif;
-    font-size: 42px;
-    font-stretch: normal;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 53px;
     opacity: 1.00;
 }
 .paragraph_style_2 {
@@ -111,7 +98,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_3 {
+.style_2 {
     font-family: 'Georgia-Bold', 'Georgia', serif;
     font-size: 24px;
     font-stretch: normal;
