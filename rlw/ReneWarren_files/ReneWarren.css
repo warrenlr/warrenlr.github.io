@@ -153,7 +153,7 @@
     line-height: 53px;
 }
 .style_2 {
-    color: rgb(192, 192, 192);
+    color: rgb(214, 214, 214);
     font-family: 'Georgia', serif;
     font-size: 42px;
     font-stretch: normal;
@@ -347,7 +347,8 @@ a.class7:hover {
     text-decoration: none;
 }
 a.class8 {
-    color: rgb(94, 94, 94);
+    color: rgb(0, 0, 0);
+    text-decoration: none;
 }
 a.class8:visited {
     color: rgb(0, 0, 0);
@@ -357,7 +358,8 @@ a.class8:hover {
     text-decoration: none;
 }
 a.class9 {
-    color: rgb(94, 94, 94);
+    color: rgb(0, 0, 0);
+    text-decoration: none;
 }
 a.class9:visited {
     color: rgb(0, 0, 0);
