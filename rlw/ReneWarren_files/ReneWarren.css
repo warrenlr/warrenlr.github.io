@@ -347,24 +347,28 @@ a.class7:hover {
     text-decoration: none;
 }
 a.class8 {
-    color: rgb(94, 94, 94);
+    color: rgb(0, 0, 0);
+    text-decoration: none;
 }
 a.class8:visited {
     color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class8:hover {
-    text-decoration: none;
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
 }
 a.class9 {
-    color: rgb(94, 94, 94);
+    color: rgb(0, 0, 0);
+    text-decoration: none;
 }
 a.class9:visited {
     color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class9:hover {
-    text-decoration: none;
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
 }
 a:hover {
     color: rgb(0, 0, 0);
