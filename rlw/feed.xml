@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  <id>urn:iweb:FC80106F-6FD2-46A1-9FFC-EF3B51823005</id>
  <title>Page list Atom feed</title>
- <updated>2019-11-07T13:19:26-08:00</updated>
+ <updated>2019-11-07T13:22:52-08:00</updated>
  <link rel="self" href="feed.xml"/>
  <generator>iWeb</generator>
  <author>
@@ -14,7 +14,7 @@
   <title xmlns="urn:iweb:">ReneWarren</title>
   <in-navbar xmlns="urn:iweb:">92AB983B-07E6-42E1-863D-409A83C47655</in-navbar>
   <link rel="alternate" href="ReneWarren.html"/>
-  <updated>2019-11-07T13:19:26.001-08:00</updated>
+  <updated>2019-11-07T13:22:52.001-08:00</updated>
   <content>ReneWarren</content>
  </entry>
  <entry>
@@ -23,7 +23,7 @@
   <title xmlns="urn:iweb:">ReneWarrenBest</title>
   <in-navbar xmlns="urn:iweb:">FD093DD7-843C-4616-9270-759F693AD753</in-navbar>
   <link rel="alternate" href="ReneWarrenBest.html"/>
-  <updated>2019-11-07T13:19:26.002-08:00</updated>
+  <updated>2019-11-07T13:22:52.002-08:00</updated>
   <content>ReneWarrenBest</content>
  </entry>
  <entry>
@@ -32,7 +32,7 @@
   <title xmlns="urn:iweb:">ReneWarrenLiveOld</title>
   <in-navbar xmlns="urn:iweb:">C81BB0F1-3F49-4A1D-840C-0480DC973FF8</in-navbar>
   <link rel="alternate" href="ReneWarrenLiveOld.html"/>
-  <updated>2019-11-07T13:19:26.003-08:00</updated>
+  <updated>2019-11-07T13:22:52.003-08:00</updated>
   <content>ReneWarrenLiveOld</content>
  </entry>
  <entry>
@@ -41,7 +41,7 @@
   <title xmlns="urn:iweb:">ReneWarrenBroken</title>
   <in-navbar xmlns="urn:iweb:">1FE45108-824F-47FB-B1BE-8C140F0ED172</in-navbar>
   <link rel="alternate" href="ReneWarrenBroken.html"/>
-  <updated>2019-11-07T13:19:26.004-08:00</updated>
+  <updated>2019-11-07T13:22:52.004-08:00</updated>
   <content>ReneWarrenBroken</content>
  </entry>
  <entry>
@@ -50,7 +50,7 @@
   <title xmlns="urn:iweb:">ReneWarrenCircle</title>
   <in-navbar xmlns="urn:iweb:">FD9A0DE2-A372-462A-BFA9-48EFFA035889</in-navbar>
   <link rel="alternate" href="ReneWarrenCircle.html"/>
-  <updated>2019-11-07T13:19:26.005-08:00</updated>
+  <updated>2019-11-07T13:22:52.005-08:00</updated>
   <content>ReneWarrenCircle</content>
  </entry>
  <entry>
@@ -59,7 +59,7 @@
   <title xmlns="urn:iweb:">About</title>
   <in-navbar xmlns="urn:iweb:">87CF93FC-4D59-42B8-9EBF-70AB983AACED</in-navbar>
   <link rel="alternate" href="About.html"/>
-  <updated>2019-11-07T13:19:26.006-08:00</updated>
+  <updated>2019-11-07T13:22:52.006-08:00</updated>
   <content>About</content>
  </entry>
  <entry>
@@ -68,7 +68,7 @@
   <title xmlns="urn:iweb:">Photo</title>
   <in-navbar xmlns="urn:iweb:">8057E974-0A62-497F-AA1B-BBE6D587879B</in-navbar>
   <link rel="alternate" href="Photo.html"/>
-  <updated>2019-11-07T13:19:26.007-08:00</updated>
+  <updated>2019-11-07T13:22:52.007-08:00</updated>
   <content>Photo</content>
  </entry>
  <entry>
@@ -77,7 +77,7 @@
   <title xmlns="urn:iweb:">Video</title>
   <in-navbar xmlns="urn:iweb:">716F7B18-0987-40CB-B349-83BE2ABEC94B</in-navbar>
   <link rel="alternate" href="Video.html"/>
-  <updated>2019-11-07T13:19:26.008-08:00</updated>
+  <updated>2019-11-07T13:22:52.008-08:00</updated>
   <content>Video</content>
  </entry>
 </feed>
