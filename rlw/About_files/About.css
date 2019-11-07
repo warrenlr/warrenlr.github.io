@@ -3,14 +3,14 @@
 }
 .paragraph_style {
     color: rgb(0, 0, 0);
-    font-family: 'CenturyGothic', 'Century Gothic';
-    font-size: 64px;
+    font-family: 'Georgia', serif;
+    font-size: 115px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
-    line-height: 86px;
+    line-height: 143px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -100,19 +100,16 @@
 .style_5 {
     padding: 4px;
 }
-.style_External_180_87 {
-    position: relative;
-}
 .paragraph_style_3 {
     color: rgb(0, 0, 0);
-    font-family: 'CenturyGothic', 'Century Gothic';
-    font-size: 14px;
+    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
+    font-size: 16px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: 400;
+    font-weight: 700;
     letter-spacing: 0;
-    line-height: 19px;
+    line-height: 20px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -120,18 +117,10 @@
     opacity: 1.00;
     padding-bottom: 0px;
     padding-top: 0px;
-    text-align: center;
+    text-align: justify;
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
-}
-.style_6 {
-    font-family: 'CenturyGothic-Bold', 'Century Gothic';
-    font-size: 14px;
-    font-stretch: normal;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 19px;
 }
 .paragraph_style_4 {
     color: rgb(103, 103, 103);
@@ -155,45 +144,80 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_7 {
-    font-family: 'CenturyGothic-BoldItalic', 'Century Gothic';
-    font-size: 13px;
+.paragraph_style_5 {
+    color: rgb(103, 103, 103);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 16px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_6 {
+    font-family: 'Arial-BoldItalicMT', 'Arial', sans-serif;
+    font-size: 16px;
     font-stretch: normal;
     font-style: italic;
     font-weight: 700;
-    line-height: 18px;
+    line-height: 20px;
+}
+.style_7 {
+    font-family: 'Arial-ItalicMT', 'Arial', sans-serif;
+    font-size: 16px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 20px;
 }
 .style_8 {
-    font-family: 'CenturyGothic-Italic', 'Century Gothic';
-    font-size: 13px;
-    font-stretch: normal;
-    font-style: italic;
-    font-weight: 400;
-    line-height: 18px;
-}
-.style_9 {
-    font-family: 'CenturyGothic-Italic', 'Century Gothic';
-    font-size: 13px;
-    font-stretch: normal;
-    font-style: italic;
-    font-weight: 400;
-    line-height: 18px;
-}
-.style_10 {
-    font-family: 'CenturyGothic-Bold', 'Century Gothic';
-    font-size: 13px;
+    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
+    font-size: 16px;
     font-stretch: normal;
     font-style: normal;
     font-weight: 700;
-    line-height: 18px;
+    line-height: 20px;
+}
+.style_9 {
+    font-family: 'Arial-ItalicMT', 'Arial', sans-serif;
+    font-size: 16px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 20px;
+}
+.style_10 {
+    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
+    font-size: 16px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px;
 }
 .style_11 {
-    font-family: 'CenturyGothic-BoldItalic', 'Century Gothic';
-    font-size: 13px;
+    font-family: 'Arial-BoldItalicMT', 'Arial', sans-serif;
+    font-size: 16px;
     font-stretch: normal;
     font-style: italic;
     font-weight: 700;
-    line-height: 18px;
+    line-height: 20px;
+}
+.style_12 {
+    color: rgb(66, 66, 66);
+    line-height: 20px;
+    opacity: 1.00;
 }
 .style_SkipStroke_1 {
     background: transparent;
@@ -203,38 +227,11 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_12 {
-    color: rgb(66, 66, 66);
-    line-height: 18px;
-    opacity: 1.00;
-}
-.paragraph_style_5 {
-    color: rgb(0, 0, 0);
-    font-family: 'CenturyGothic-Bold', 'Century Gothic';
-    font-size: 13px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 700;
-    letter-spacing: 0;
-    line-height: 18px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: center;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
 .style_SkipStroke_2 {
     background: transparent;
     opacity: 1.00;
 }
-.style_External_463_90 {
+.style_External_220_95 {
     position: relative;
 }
 .style_SkipStroke_3 {
@@ -263,14 +260,13 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_SkipStroke_4 {
-    background: transparent;
-    opacity: 1.00;
-}
 .style_External_98_36 {
     position: relative;
 }
-.style_External_404_768 {
+.style_External_697_145 {
+    position: relative;
+}
+.style_External_460_817 {
     position: relative;
 }
 .Body {
@@ -298,7 +294,7 @@
 .Normal {
     padding: 4px;
 }
-.Normal_External_404_768 {
+.Normal_External_460_817 {
     position: relative;
 }
 .graphic_generic_body_textbox_style_default_SkipStroke {
@@ -312,13 +308,13 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_463_90 {
+.graphic_textbox_layout_style_default_External_220_95 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_697_145 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_98_36 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_180_87 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
@@ -334,16 +330,15 @@ a:visited {
     text-decoration: none;
 }
 a.class1 {
-    color: rgb(66, 66, 66);
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class1:visited {
-    color: rgb(121, 121, 121);
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class1:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
+    text-decoration: none;
 }
 a.class10 {
     text-decoration: none;
@@ -379,14 +374,15 @@ a.class12:hover {
     text-decoration: underline;
 }
 a.class13 {
-    color: rgb(169, 169, 169);
     text-decoration: none;
 }
 a.class13:visited {
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class13:hover {
-    text-decoration: none;
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
 }
 a.class14 {
     color: rgb(169, 169, 169);
@@ -398,12 +394,22 @@ a.class14:visited {
 a.class14:hover {
     text-decoration: none;
 }
+a.class15 {
+    color: rgb(169, 169, 169);
+    text-decoration: none;
+}
+a.class15:visited {
+    text-decoration: none;
+}
+a.class15:hover {
+    text-decoration: none;
+}
 a.class2 {
     color: rgb(66, 66, 66);
     text-decoration: none;
 }
 a.class2:visited {
-    color: rgb(0, 0, 0);
+    color: rgb(121, 121, 121);
     text-decoration: none;
 }
 a.class2:hover {
@@ -423,6 +429,7 @@ a.class3:hover {
     text-decoration: underline;
 }
 a.class4 {
+    color: rgb(66, 66, 66);
     text-decoration: none;
 }
 a.class4:visited {
@@ -456,7 +463,6 @@ a.class6:hover {
     text-decoration: underline;
 }
 a.class7 {
-    color: rgb(66, 66, 66);
     text-decoration: none;
 }
 a.class7:visited {
@@ -468,6 +474,7 @@ a.class7:hover {
     text-decoration: underline;
 }
 a.class8 {
+    color: rgb(66, 66, 66);
     text-decoration: none;
 }
 a.class8:visited {
