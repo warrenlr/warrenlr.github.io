@@ -238,16 +238,19 @@
     background: transparent;
     opacity: 1.00;
 }
+.style_External_99_25 {
+    position: relative;
+}
 .paragraph_style_6 {
     color: rgb(192, 192, 192);
     font-family: 'CenturyGothic', 'Century Gothic';
-    font-size: 11px;
+    font-size: 13px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
-    line-height: 14px;
+    line-height: 18px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -259,9 +262,6 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
-}
-.style_External_98_36 {
-    position: relative;
 }
 .style_External_697_145 {
     position: relative;
@@ -314,7 +314,7 @@
 .graphic_textbox_layout_style_default_External_697_145 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_98_36 {
+.graphic_textbox_layout_style_default_External_99_25 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
@@ -392,16 +392,6 @@ a.class14:visited {
     text-decoration: none;
 }
 a.class14:hover {
-    text-decoration: none;
-}
-a.class15 {
-    color: rgb(169, 169, 169);
-    text-decoration: none;
-}
-a.class15:visited {
-    text-decoration: none;
-}
-a.class15:hover {
     text-decoration: none;
 }
 a.class2 {
