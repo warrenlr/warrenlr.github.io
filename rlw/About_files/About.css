@@ -4,13 +4,13 @@
 .paragraph_style {
     color: rgb(0, 0, 0);
     font-family: 'CenturyGothic', 'Century Gothic';
-    font-size: 59px;
+    font-size: 64px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
-    line-height: 79px;
+    line-height: 86px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -96,9 +96,6 @@
     color: rgb(94, 94, 94);
     line-height: 13px;
     opacity: 1.00;
-}
-.style_External_444_85 {
-    position: relative;
 }
 .style_5 {
     padding: 4px;
@@ -190,14 +187,6 @@
     font-weight: 700;
     line-height: 18px;
 }
-.style_SkipStroke_1 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
-}
 .style_11 {
     font-family: 'CenturyGothic-BoldItalic', 'Century Gothic';
     font-size: 13px;
@@ -205,6 +194,14 @@
     font-style: italic;
     font-weight: 700;
     line-height: 18px;
+}
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
 }
 .style_12 {
     color: rgb(66, 66, 66);
@@ -236,6 +233,9 @@
 .style_SkipStroke_2 {
     background: transparent;
     opacity: 1.00;
+}
+.style_External_463_90 {
+    position: relative;
 }
 .style_SkipStroke_3 {
     background: transparent;
@@ -312,7 +312,7 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_444_85 {
+.graphic_textbox_layout_style_default_External_463_90 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_98_36 {
