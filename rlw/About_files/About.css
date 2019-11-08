@@ -165,9 +165,6 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_External_460_536 {
-    position: relative;
-}
 .style_6 {
     font-family: 'Arial-ItalicMT', 'Arial', sans-serif;
     font-size: 18px;
@@ -175,9 +172,6 @@
     font-style: italic;
     font-weight: 400;
     line-height: 23px;
-}
-.style_External_99_29 {
-    position: relative;
 }
 .paragraph_style_6 {
     color: rgb(192, 192, 192);
@@ -201,6 +195,9 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_External_99_29 {
+    position: relative;
+}
 .style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
@@ -217,10 +214,13 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_External_697_145 {
+.style_External_460_490 {
     position: relative;
 }
-.style_External_231_112 {
+.style_External_231_87 {
+    position: relative;
+}
+.style_External_697_145 {
     position: relative;
 }
 .Body {
@@ -248,7 +248,7 @@
 .Normal {
     padding: 4px;
 }
-.Normal_External_460_536 {
+.Normal_External_460_490 {
     position: relative;
 }
 .graphic_generic_body_textbox_style_default_SkipStroke {
@@ -262,13 +262,13 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_231_112 {
-    position: relative;
-}
 .graphic_textbox_layout_style_default_External_323_57 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_697_145 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_231_87 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_99_29 {
