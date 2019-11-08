@@ -102,6 +102,12 @@
 .style_2 {
     padding: 4px;
 }
+.style_External_546_504 {
+    position: relative;
+}
+.style_External_323_57 {
+    position: relative;
+}
 .paragraph_style_4 {
     color: rgb(0, 0, 0);
     font-family: 'ArialMT', 'Arial', sans-serif;
@@ -123,9 +129,6 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
-}
-.style_External_323_57 {
-    position: relative;
 }
 .style_3 {
     font-family: 'Arial-ItalicMT', 'Arial', sans-serif;
@@ -260,9 +263,6 @@
     font-style: italic;
     font-weight: 700;
     line-height: 23px;
-}
-.style_External_539_504 {
-    position: relative;
 }
 .style_SkipStroke_1 {
     background: transparent;
@@ -404,7 +404,7 @@
 .Normal {
     padding: 4px;
 }
-.Normal_External_539_504 {
+.Normal_External_546_504 {
     position: relative;
 }
 .graphic_generic_body_textbox_style_default_SkipStroke {
