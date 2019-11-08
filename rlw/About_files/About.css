@@ -48,13 +48,13 @@
 .paragraph_style_2 {
     color: rgb(169, 169, 169);
     font-family: 'CenturyGothic-Italic', 'Century Gothic';
-    font-size: 10px;
+    font-size: 14px;
     font-stretch: normal;
     font-style: italic;
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
-    line-height: 13px;
+    line-height: 19px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -69,19 +69,41 @@
 }
 .style_1 {
     color: rgb(0, 0, 0);
-    line-height: 13px;
+    line-height: 19px;
     opacity: 1.00;
 }
 .paragraph_style_3 {
     color: rgb(103, 103, 103);
     font-family: 'CenturyGothic', 'Century Gothic';
-    font-size: 10px;
+    font-size: 6px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
-    line-height: 13px;
+    line-height: 8px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: right;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_4 {
+    color: rgb(103, 103, 103);
+    font-family: 'CenturyGothic', 'Century Gothic';
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 19px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -97,44 +119,44 @@
 .style_2 {
     color: rgb(0, 0, 0);
     font-family: 'CenturyGothic-Bold', 'Century Gothic';
-    font-size: 10px;
+    font-size: 14px;
     font-stretch: normal;
     font-style: normal;
     font-weight: 700;
-    line-height: 13px;
+    line-height: 19px;
     opacity: 1.00;
 }
 .style_3 {
     color: rgb(33, 33, 33);
     font-family: 'CenturyGothic-Bold', 'Century Gothic';
-    font-size: 10px;
+    font-size: 14px;
     font-stretch: normal;
     font-style: normal;
     font-weight: 700;
-    line-height: 13px;
-    opacity: 1.00;
-}
-.style_4 {
-    color: rgb(94, 94, 94);
-    line-height: 13px;
+    line-height: 19px;
     opacity: 1.00;
 }
 .style_External_323_57 {
     position: relative;
 }
+.style_4 {
+    color: rgb(94, 94, 94);
+    line-height: 19px;
+    opacity: 1.00;
+}
 .style_5 {
     padding: 4px;
 }
-.paragraph_style_4 {
+.paragraph_style_5 {
     color: rgb(103, 103, 103);
     font-family: 'ArialMT', 'Arial', sans-serif;
-    font-size: 17px;
+    font-size: 18px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
-    line-height: 22px;
+    line-height: 23px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -149,33 +171,22 @@
 }
 .style_6 {
     font-family: 'Arial-ItalicMT', 'Arial', sans-serif;
-    font-size: 17px;
+    font-size: 18px;
     font-stretch: normal;
     font-style: italic;
     font-weight: 400;
-    line-height: 22px;
+    line-height: 23px;
 }
-.style_7 {
-    font-family: 'Arial-ItalicMT', 'Arial', sans-serif;
-    font-size: 17px;
-    font-stretch: normal;
-    font-style: italic;
-    font-weight: 400;
-    line-height: 22px;
-}
-.style_External_99_25 {
-    position: relative;
-}
-.paragraph_style_5 {
-    color: rgb(192, 192, 192);
-    font-family: 'CenturyGothic', 'Century Gothic';
-    font-size: 13px;
+.paragraph_style_6 {
+    color: rgb(103, 103, 103);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 12px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
-    line-height: 18px;
+    line-height: 15px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -183,10 +194,21 @@
     opacity: 1.00;
     padding-bottom: 0px;
     padding-top: 0px;
-    text-align: center;
+    text-align: justify;
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
+}
+.style_7 {
+    font-family: 'Arial-ItalicMT', 'Arial', sans-serif;
+    font-size: 18px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 23px;
+}
+.style_External_99_29 {
+    position: relative;
 }
 .style_SkipStroke {
     background: transparent;
@@ -204,13 +226,35 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_External_460_322 {
-    position: relative;
+.paragraph_style_7 {
+    color: rgb(192, 192, 192);
+    font-family: 'CenturyGothic', 'Century Gothic';
+    font-size: 16px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 22px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
 }
-.style_External_192_95 {
+.style_External_460_264 {
     position: relative;
 }
 .style_External_697_145 {
+    position: relative;
+}
+.style_External_231_112 {
     position: relative;
 }
 .Body {
@@ -238,7 +282,7 @@
 .Normal {
     padding: 4px;
 }
-.Normal_External_460_322 {
+.Normal_External_460_264 {
     position: relative;
 }
 .graphic_generic_body_textbox_style_default_SkipStroke {
@@ -252,16 +296,16 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
+.graphic_textbox_layout_style_default_External_231_112 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default_External_323_57 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_697_145 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_192_95 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_99_25 {
+.graphic_textbox_layout_style_default_External_99_29 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
@@ -357,24 +401,13 @@ a.class7:hover {
     text-decoration: underline;
 }
 a.class8 {
-    text-decoration: none;
-}
-a.class8:visited {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
-}
-a.class8:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
-}
-a.class9 {
     color: rgb(169, 169, 169);
     text-decoration: none;
 }
-a.class9:visited {
+a.class8:visited {
     text-decoration: none;
 }
-a.class9:hover {
+a.class8:hover {
     text-decoration: none;
 }
 a:hover {
