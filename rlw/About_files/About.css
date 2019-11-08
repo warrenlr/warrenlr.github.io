@@ -24,7 +24,7 @@
     text-transform: none;
 }
 .paragraph_style_1 {
-    color: rgb(192, 192, 192);
+    color: rgb(0, 0, 0);
     font-family: 'Georgia', serif;
     font-size: 40px;
     font-stretch: normal;
@@ -312,21 +312,23 @@ a.class1:hover {
     text-decoration: none;
 }
 a.class2 {
-    color: rgb(94, 94, 94);
+    color: rgb(66, 66, 66);
     text-decoration: none;
 }
 a.class2:visited {
+    color: rgb(121, 121, 121);
     text-decoration: none;
 }
 a.class2:hover {
-    text-decoration: none;
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
 }
 a.class3 {
     color: rgb(66, 66, 66);
     text-decoration: none;
 }
 a.class3:visited {
-    color: rgb(121, 121, 121);
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class3:hover {
@@ -346,7 +348,6 @@ a.class4:hover {
     text-decoration: underline;
 }
 a.class5 {
-    color: rgb(66, 66, 66);
     text-decoration: none;
 }
 a.class5:visited {
@@ -380,24 +381,13 @@ a.class7:hover {
     text-decoration: underline;
 }
 a.class8 {
-    text-decoration: none;
-}
-a.class8:visited {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
-}
-a.class8:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
-}
-a.class9 {
     color: rgb(169, 169, 169);
     text-decoration: none;
 }
-a.class9:visited {
+a.class8:visited {
     text-decoration: none;
 }
-a.class9:hover {
+a.class8:hover {
     text-decoration: none;
 }
 a:hover {
