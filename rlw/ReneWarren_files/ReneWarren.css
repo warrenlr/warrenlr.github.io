@@ -24,6 +24,28 @@
     text-transform: none;
 }
 .paragraph_style_1 {
+    color: rgb(0, 0, 0);
+    font-family: 'Georgia', serif;
+    font-size: 40px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 51px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_2 {
     color: rgb(94, 94, 94);
     font-family: 'Georgia', serif;
     font-size: 28px;
@@ -55,28 +77,6 @@
     line-height: 53px;
     opacity: 1.00;
 }
-.paragraph_style_2 {
-    color: rgb(192, 192, 192);
-    font-family: 'Georgia', serif;
-    font-size: 40px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 51px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: center;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
 .paragraph_style_3 {
     color: rgb(94, 94, 94);
     font-family: 'Georgia', serif;
@@ -99,6 +99,160 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_2 {
+    padding: 4px;
+}
+.paragraph_style_4 {
+    color: rgb(94, 94, 94);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 18px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 23px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_External_323_57 {
+    position: relative;
+}
+.style_3 {
+    font-family: 'Arial-ItalicMT', 'Arial', sans-serif;
+    font-size: 18px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 23px;
+}
+.paragraph_style_5 {
+    color: rgb(103, 103, 103);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 18px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 23px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_6 {
+    color: rgb(103, 103, 103);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 15px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_7 {
+    color: rgb(103, 103, 103);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 17px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 22px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_8 {
+    color: rgb(0, 0, 0);
+    font-family: 'CenturyGothic-Italic', 'Century Gothic';
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 19px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: right;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_4 {
+    font-family: 'CenturyGothic', 'Century Gothic';
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19px;
+}
+.paragraph_style_9 {
+    color: rgb(0, 0, 0);
+    font-family: 'CenturyGothic-Italic', 'Century Gothic';
+    font-size: 6px;
+    font-stretch: normal;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 8px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: right;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
 .style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
@@ -107,7 +261,51 @@
     background: transparent;
     opacity: 1.00;
 }
-.paragraph_style_4 {
+.style_SkipStroke_2 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_External_334_57 {
+    position: relative;
+}
+.paragraph_style_10 {
+    color: rgb(103, 103, 103);
+    font-family: 'CenturyGothic', 'Century Gothic';
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 19px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: right;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_5 {
+    color: rgb(0, 0, 0);
+    line-height: 19px;
+    opacity: 1.00;
+}
+.style_External_265_73 {
+    position: relative;
+}
+.style_SkipStroke_3 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_External_99_29 {
+    position: relative;
+}
+.paragraph_style_11 {
     color: rgb(192, 192, 192);
     font-family: 'CenturyGothic', 'Century Gothic';
     font-size: 16px;
@@ -129,13 +327,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_External_323_57 {
-    position: relative;
-}
-.style_External_334_57 {
-    position: relative;
-}
-.style_External_99_29 {
+.style_External_540_486 {
     position: relative;
 }
 .style_External_697_145 {
@@ -163,6 +355,16 @@
     text-indent: 0px;
     text-transform: none;
 }
+.Normal {
+    padding: 4px;
+}
+.Normal_External_540_486 {
+    position: relative;
+}
+.graphic_generic_body_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
 .graphic_image_style_default_SkipStroke {
     background: transparent;
     opacity: 1.00;
@@ -170,19 +372,22 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_334_57 {
+.graphic_textbox_layout_style_default_External_265_73 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_99_29 {
+.graphic_textbox_layout_style_default_External_334_57 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_323_57 {
     position: relative;
 }
+.graphic_textbox_layout_style_default_External_697_145 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default_External_40_59 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_697_145 {
+.graphic_textbox_layout_style_default_External_99_29 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
@@ -209,7 +414,8 @@ a.class1:hover {
     text-decoration: none;
 }
 a.class2 {
-    color: rgb(94, 94, 94);
+    color: rgb(0, 0, 0);
+    text-decoration: none;
 }
 a.class2:visited {
     text-decoration: none;
@@ -218,22 +424,70 @@ a.class2:hover {
     text-decoration: none;
 }
 a.class3 {
-    color: rgb(94, 94, 94);
+    color: rgb(66, 66, 66);
+    text-decoration: none;
 }
 a.class3:visited {
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class3:hover {
-    text-decoration: none;
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
 }
 a.class4 {
-    color: rgb(169, 169, 169);
+    color: rgb(66, 66, 66);
     text-decoration: none;
 }
 a.class4:visited {
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class4:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+a.class5 {
+    text-decoration: none;
+}
+a.class5:visited {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class5:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+a.class6 {
+    text-decoration: none;
+}
+a.class6:visited {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class6:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+a.class7 {
+    text-decoration: none;
+}
+a.class7:visited {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class7:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+a.class8 {
+    color: rgb(169, 169, 169);
+    text-decoration: none;
+}
+a.class8:visited {
+    text-decoration: none;
+}
+a.class8:hover {
     text-decoration: none;
 }
 a:hover {
@@ -243,18 +497,6 @@ a:hover {
 .bumper {
     font-size: 1px;
     line-height: 1px;
-}
-#widget0 a:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
-}
-#widget0 a:visited {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
-}
-#widget0 a {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
 }
 .spacer {
     font-size: 1px;
