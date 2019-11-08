@@ -119,7 +119,7 @@
     opacity: 1.00;
     padding-bottom: 0px;
     padding-top: 0px;
-    text-align: center;
+    text-align: justify;
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
@@ -202,7 +202,7 @@
     text-transform: none;
 }
 .paragraph_style_8 {
-    color: rgb(94, 94, 94);
+    color: rgb(0, 0, 0);
     font-family: 'ArialMT', 'Arial', sans-serif;
     font-size: 18px;
     font-stretch: normal;
@@ -222,30 +222,16 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
+}
+.style_4 {
+    font-family: 'Arial-ItalicMT', 'Arial', sans-serif;
+    font-size: 18px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 23px;
 }
 .paragraph_style_9 {
-    color: rgb(4, 51, 255);
-    font-family: 'ArialMT', 'Arial', sans-serif;
-    font-size: 18px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 23px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: justify;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style_10 {
     color: rgb(0, 0, 0);
     font-family: 'CenturyGothic-Italic', 'Century Gothic';
     font-size: 14px;
@@ -267,6 +253,14 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_5 {
+    font-family: 'CenturyGothic', 'Century Gothic';
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19px;
+}
 .style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
@@ -282,15 +276,7 @@
 .style_External_334_57 {
     position: relative;
 }
-.style_4 {
-    font-family: 'CenturyGothic', 'Century Gothic';
-    font-size: 14px;
-    font-stretch: normal;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 19px;
-}
-.paragraph_style_11 {
+.paragraph_style_10 {
     color: rgb(0, 0, 0);
     font-family: 'CenturyGothic-Italic', 'Century Gothic';
     font-size: 6px;
@@ -312,10 +298,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_External_265_73 {
-    position: relative;
-}
-.paragraph_style_12 {
+.paragraph_style_11 {
     color: rgb(103, 103, 103);
     font-family: 'CenturyGothic', 'Century Gothic';
     font-size: 14px;
@@ -337,7 +320,10 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_5 {
+.style_External_265_73 {
+    position: relative;
+}
+.style_6 {
     color: rgb(0, 0, 0);
     line-height: 19px;
     opacity: 1.00;
@@ -349,7 +335,7 @@
 .style_External_99_29 {
     position: relative;
 }
-.paragraph_style_13 {
+.paragraph_style_12 {
     color: rgb(192, 192, 192);
     font-family: 'CenturyGothic', 'Century Gothic';
     font-size: 16px;
@@ -371,7 +357,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_External_540_486 {
+.style_External_567_486 {
     position: relative;
 }
 .style_External_697_145 {
@@ -402,7 +388,7 @@
 .Normal {
     padding: 4px;
 }
-.Normal_External_540_486 {
+.Normal_External_567_486 {
     position: relative;
 }
 .graphic_generic_body_textbox_style_default_SkipStroke {
@@ -468,59 +454,13 @@ a.class2:hover {
     text-decoration: none;
 }
 a.class3 {
-    color: rgb(66, 66, 66);
-    text-decoration: none;
-}
-a.class3:visited {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
-}
-a.class3:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
-}
-a.class4 {
-    color: rgb(66, 66, 66);
-    text-decoration: none;
-}
-a.class4:visited {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
-}
-a.class4:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
-}
-a.class5 {
-    text-decoration: none;
-}
-a.class5:visited {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
-}
-a.class5:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
-}
-a.class6 {
-    text-decoration: none;
-}
-a.class6:visited {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
-}
-a.class6:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
-}
-a.class7 {
     color: rgb(169, 169, 169);
     text-decoration: none;
 }
-a.class7:visited {
+a.class3:visited {
     text-decoration: none;
 }
-a.class7:hover {
+a.class3:hover {
     text-decoration: none;
 }
 a:hover {
