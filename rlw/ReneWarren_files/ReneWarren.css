@@ -105,13 +105,13 @@
 .paragraph_style_4 {
     color: rgb(0, 0, 0);
     font-family: 'ArialMT', 'Arial', sans-serif;
-    font-size: 18px;
+    font-size: 17px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
-    line-height: 23px;
+    line-height: 22px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -129,11 +129,11 @@
 }
 .style_3 {
     font-family: 'Arial-ItalicMT', 'Arial', sans-serif;
-    font-size: 18px;
+    font-size: 17px;
     font-stretch: normal;
     font-style: italic;
     font-weight: 400;
-    line-height: 23px;
+    line-height: 22px;
 }
 .paragraph_style_5 {
     color: rgb(0, 0, 0);
@@ -156,6 +156,9 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
+}
+.style_External_254_107 {
+    position: relative;
 }
 .style_4 {
     font-family: 'Arial-BoldMT', 'Arial', sans-serif;
@@ -195,6 +198,9 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_External_99_29 {
+    position: relative;
+}
 .paragraph_style_7 {
     color: rgb(192, 192, 192);
     font-family: 'CenturyGothic', 'Century Gothic';
@@ -217,19 +223,16 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_External_99_29 {
-    position: relative;
-}
 .paragraph_style_8 {
     color: rgb(0, 0, 0);
     font-family: 'ArialMT', 'Arial', sans-serif;
-    font-size: 18px;
+    font-size: 17px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
-    line-height: 23px;
+    line-height: 22px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -241,14 +244,6 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
-}
-.style_6 {
-    font-family: 'Arial-ItalicMT', 'Arial', sans-serif;
-    font-size: 18px;
-    font-stretch: normal;
-    font-style: italic;
-    font-weight: 400;
-    line-height: 23px;
 }
 .style_SkipStroke_1 {
     background: transparent;
@@ -269,22 +264,27 @@
     background: transparent;
     opacity: 1.00;
 }
+.style_6 {
+    font-family: 'Arial-ItalicMT', 'Arial', sans-serif;
+    font-size: 17px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 22px;
+}
 .style_7 {
     font-family: 'Arial-BoldItalicMT', 'Arial', sans-serif;
-    font-size: 18px;
+    font-size: 17px;
     font-stretch: normal;
     font-style: italic;
     font-weight: 700;
-    line-height: 23px;
+    line-height: 22px;
 }
 .style_SkipStroke_4 {
     background: transparent;
     opacity: 1.00;
 }
 .style_External_697_145 {
-    position: relative;
-}
-.style_External_257_107 {
     position: relative;
 }
 .style_External_399_107 {
@@ -321,7 +321,7 @@
 .Normal_External_399_107 {
     position: relative;
 }
-.Normal_External_257_107 {
+.Normal_External_254_107 {
     position: relative;
 }
 .graphic_generic_body_textbox_style_default_SkipStroke {
