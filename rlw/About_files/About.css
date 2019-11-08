@@ -24,6 +24,28 @@
     text-transform: none;
 }
 .paragraph_style_1 {
+    color: rgb(0, 0, 0);
+    font-family: 'Georgia', serif;
+    font-size: 40px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 51px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_2 {
     color: rgb(169, 169, 169);
     font-family: 'CenturyGothic-Italic', 'Century Gothic';
     font-size: 10px;
@@ -50,7 +72,7 @@
     line-height: 13px;
     opacity: 1.00;
 }
-.paragraph_style_2 {
+.paragraph_style_3 {
     color: rgb(103, 103, 103);
     font-family: 'CenturyGothic', 'Century Gothic';
     font-size: 10px;
@@ -97,63 +119,22 @@
     line-height: 13px;
     opacity: 1.00;
 }
+.style_External_323_57 {
+    position: relative;
+}
 .style_5 {
     padding: 4px;
 }
-.paragraph_style_3 {
-    color: rgb(0, 0, 0);
-    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
-    font-size: 16px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 700;
-    letter-spacing: 0;
-    line-height: 20px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: justify;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
 .paragraph_style_4 {
     color: rgb(103, 103, 103);
-    font-family: 'CenturyGothic', 'Century Gothic';
-    font-size: 13px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 18px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: justify;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style_5 {
-    color: rgb(103, 103, 103);
     font-family: 'ArialMT', 'Arial', sans-serif;
-    font-size: 16px;
+    font-size: 17px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
-    line-height: 20px;
+    line-height: 22px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -167,78 +148,25 @@
     text-transform: none;
 }
 .style_6 {
-    font-family: 'Arial-BoldItalicMT', 'Arial', sans-serif;
-    font-size: 16px;
+    font-family: 'Arial-ItalicMT', 'Arial', sans-serif;
+    font-size: 17px;
     font-stretch: normal;
     font-style: italic;
-    font-weight: 700;
-    line-height: 20px;
+    font-weight: 400;
+    line-height: 22px;
 }
 .style_7 {
     font-family: 'Arial-ItalicMT', 'Arial', sans-serif;
-    font-size: 16px;
+    font-size: 17px;
     font-stretch: normal;
     font-style: italic;
     font-weight: 400;
-    line-height: 20px;
-}
-.style_8 {
-    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
-    font-size: 16px;
-    font-stretch: normal;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 20px;
-}
-.style_9 {
-    font-family: 'Arial-ItalicMT', 'Arial', sans-serif;
-    font-size: 16px;
-    font-stretch: normal;
-    font-style: italic;
-    font-weight: 400;
-    line-height: 20px;
-}
-.style_10 {
-    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
-    font-size: 16px;
-    font-stretch: normal;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 20px;
-}
-.style_11 {
-    font-family: 'Arial-BoldItalicMT', 'Arial', sans-serif;
-    font-size: 16px;
-    font-stretch: normal;
-    font-style: italic;
-    font-weight: 700;
-    line-height: 20px;
-}
-.style_12 {
-    color: rgb(66, 66, 66);
-    line-height: 20px;
-    opacity: 1.00;
-}
-.style_SkipStroke_1 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_2 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_3 {
-    background: transparent;
-    opacity: 1.00;
+    line-height: 22px;
 }
 .style_External_99_25 {
     position: relative;
 }
-.paragraph_style_6 {
+.paragraph_style_5 {
     color: rgb(192, 192, 192);
     font-family: 'CenturyGothic', 'Century Gothic';
     font-size: 13px;
@@ -260,13 +188,29 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_2 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_3 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_External_460_322 {
+    position: relative;
+}
 .style_External_192_95 {
     position: relative;
 }
 .style_External_697_145 {
-    position: relative;
-}
-.style_External_460_817 {
     position: relative;
 }
 .Body {
@@ -294,7 +238,7 @@
 .Normal {
     padding: 4px;
 }
-.Normal_External_460_817 {
+.Normal_External_460_322 {
     position: relative;
 }
 .graphic_generic_body_textbox_style_default_SkipStroke {
@@ -307,6 +251,9 @@
 }
 .graphic_textbox_layout_style_default {
     padding: 4px;
+}
+.graphic_textbox_layout_style_default_External_323_57 {
+    position: relative;
 }
 .graphic_textbox_layout_style_default_External_697_145 {
     position: relative;
@@ -338,60 +285,6 @@ a.class1:visited {
     text-decoration: none;
 }
 a.class1:hover {
-    text-decoration: none;
-}
-a.class10 {
-    text-decoration: none;
-}
-a.class10:visited {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
-}
-a.class10:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
-}
-a.class11 {
-    text-decoration: none;
-}
-a.class11:visited {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
-}
-a.class11:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
-}
-a.class12 {
-    text-decoration: none;
-}
-a.class12:visited {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
-}
-a.class12:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
-}
-a.class13 {
-    text-decoration: none;
-}
-a.class13:visited {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
-}
-a.class13:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
-}
-a.class14 {
-    color: rgb(169, 169, 169);
-    text-decoration: none;
-}
-a.class14:visited {
-    text-decoration: none;
-}
-a.class14:hover {
     text-decoration: none;
 }
 a.class2 {
@@ -464,7 +357,6 @@ a.class7:hover {
     text-decoration: underline;
 }
 a.class8 {
-    color: rgb(66, 66, 66);
     text-decoration: none;
 }
 a.class8:visited {
@@ -476,15 +368,14 @@ a.class8:hover {
     text-decoration: underline;
 }
 a.class9 {
+    color: rgb(169, 169, 169);
     text-decoration: none;
 }
 a.class9:visited {
-    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class9:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
+    text-decoration: none;
 }
 a:hover {
     color: rgb(0, 0, 0);
