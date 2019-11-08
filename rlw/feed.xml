@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  <id>urn:iweb:FC80106F-6FD2-46A1-9FFC-EF3B51823005</id>
  <title>Page list Atom feed</title>
- <updated>2019-11-08T11:33:18-08:00</updated>
+ <updated>2019-11-08T11:34:49-08:00</updated>
  <link rel="self" href="feed.xml"/>
  <generator>iWeb</generator>
  <author>
@@ -14,7 +14,7 @@
   <title xmlns="urn:iweb:">ReneWarren</title>
   <in-navbar xmlns="urn:iweb:">2100B0B9-33C6-4A69-9ED2-08F723450F6A</in-navbar>
   <link rel="alternate" href="ReneWarren.html"/>
-  <updated>2019-11-08T11:33:18.001-08:00</updated>
+  <updated>2019-11-08T11:34:49.001-08:00</updated>
   <content>ReneWarren</content>
  </entry>
  <entry>
@@ -23,7 +23,7 @@
   <title xmlns="urn:iweb:">ReneWarrenBasic</title>
   <in-navbar xmlns="urn:iweb:">24806268-BD6E-405D-9A6C-D51B8EAAD89B</in-navbar>
   <link rel="alternate" href="ReneWarrenBasic.html"/>
-  <updated>2019-11-08T11:33:18.002-08:00</updated>
+  <updated>2019-11-08T11:34:49.002-08:00</updated>
   <content>ReneWarrenBasic</content>
  </entry>
  <entry>
@@ -32,7 +32,7 @@
   <title xmlns="urn:iweb:">ReneWarrenText</title>
   <in-navbar xmlns="urn:iweb:">FD093DD7-843C-4616-9270-759F693AD753</in-navbar>
   <link rel="alternate" href="ReneWarrenText.html"/>
-  <updated>2019-11-08T11:33:18.003-08:00</updated>
+  <updated>2019-11-08T11:34:49.003-08:00</updated>
   <content>ReneWarrenText</content>
  </entry>
  <entry>
@@ -41,7 +41,7 @@
   <title xmlns="urn:iweb:">About</title>
   <in-navbar xmlns="urn:iweb:">87CF93FC-4D59-42B8-9EBF-70AB983AACED</in-navbar>
   <link rel="alternate" href="About.html"/>
-  <updated>2019-11-08T11:33:18.004-08:00</updated>
+  <updated>2019-11-08T11:34:49.004-08:00</updated>
   <content>About</content>
  </entry>
  <entry>
@@ -50,7 +50,7 @@
   <title xmlns="urn:iweb:">Photo</title>
   <in-navbar xmlns="urn:iweb:">8057E974-0A62-497F-AA1B-BBE6D587879B</in-navbar>
   <link rel="alternate" href="Photo.html"/>
-  <updated>2019-11-08T11:33:18.005-08:00</updated>
+  <updated>2019-11-08T11:34:49.005-08:00</updated>
   <content>Photo</content>
  </entry>
  <entry>
@@ -59,7 +59,7 @@
   <title xmlns="urn:iweb:">Video</title>
   <in-navbar xmlns="urn:iweb:">716F7B18-0987-40CB-B349-83BE2ABEC94B</in-navbar>
   <link rel="alternate" href="Video.html"/>
-  <updated>2019-11-08T11:33:18.006-08:00</updated>
+  <updated>2019-11-08T11:34:49.006-08:00</updated>
   <content>Video</content>
  </entry>
 </feed>
