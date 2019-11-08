@@ -111,9 +111,6 @@
 .style_External_323_57 {
     position: relative;
 }
-.style_External_460_497 {
-    position: relative;
-}
 .paragraph_style_4 {
     color: rgb(169, 169, 169);
     font-family: 'CenturyGothic-Italic', 'Century Gothic';
@@ -181,32 +178,19 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_External_250_82 {
-    position: relative;
-}
 .style_7 {
     color: rgb(94, 94, 94);
     line-height: 19px;
     opacity: 1.00;
 }
-.style_External_99_29 {
+.style_External_469_513 {
     position: relative;
 }
-.style_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
+.style_External_250_82 {
+    position: relative;
 }
-.style_SkipStroke_1 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_2 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_3 {
-    background: transparent;
-    opacity: 1.00;
+.style_External_99_29 {
+    position: relative;
 }
 .paragraph_style_6 {
     color: rgb(192, 192, 192);
@@ -229,6 +213,22 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
+}
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_2 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_3 {
+    background: transparent;
+    opacity: 1.00;
 }
 .style_External_697_145 {
     position: relative;
@@ -258,7 +258,7 @@
 .Normal {
     padding: 4px;
 }
-.Normal_External_460_497 {
+.Normal_External_469_513 {
     position: relative;
 }
 .graphic_generic_body_textbox_style_default_SkipStroke {
