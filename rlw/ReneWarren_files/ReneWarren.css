@@ -201,9 +201,6 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_External_572_504 {
-    position: relative;
-}
 .paragraph_style_8 {
     color: rgb(94, 94, 94);
     font-family: 'ArialMT', 'Arial', sans-serif;
@@ -256,21 +253,6 @@
     font-weight: 400;
     line-height: 23px;
 }
-.style_SkipStroke_1 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_2 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_External_334_57 {
-    position: relative;
-}
 .paragraph_style_10 {
     color: rgb(0, 0, 0);
     font-family: 'Arial-ItalicMT', 'Arial', sans-serif;
@@ -300,6 +282,21 @@
     font-style: normal;
     font-weight: 700;
     line-height: 18px;
+}
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_2 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_External_334_57 {
+    position: relative;
 }
 .style_6 {
     font-family: 'ArialMT', 'Arial', sans-serif;
@@ -371,6 +368,9 @@
 .style_External_697_145 {
     position: relative;
 }
+.style_External_564_504 {
+    position: relative;
+}
 .Body {
     color: rgb(88, 77, 77);
     font-family: 'ArialMT', 'Arial', sans-serif;
@@ -396,7 +396,7 @@
 .Normal {
     padding: 4px;
 }
-.Normal_External_572_504 {
+.Normal_External_564_504 {
     position: relative;
 }
 .graphic_generic_body_textbox_style_default_SkipStroke {
