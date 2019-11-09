@@ -187,19 +187,19 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_External_99_29 {
+.style_External_116_29 {
     position: relative;
 }
 .paragraph_style_6 {
     color: rgb(214, 214, 214);
-    font-family: 'CenturyGothic', 'Century Gothic';
-    font-size: 16px;
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 18px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
-    line-height: 22px;
+    line-height: 23px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -288,7 +288,7 @@
 .graphic_textbox_layout_style_default_External_697_145 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_99_29 {
+.graphic_textbox_layout_style_default_External_116_29 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_264_69 {
@@ -311,18 +311,30 @@ a.class1 {
     text-decoration: none;
 }
 a.class1:visited {
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class1:hover {
+    color: rgb(66, 66, 66);
     text-decoration: none;
 }
 a.class2 {
-    color: rgb(214, 214, 214);
+    color: rgb(0, 0, 0);
+    text-decoration: none;
 }
 a.class2:visited {
     text-decoration: none;
 }
 a.class2:hover {
+    text-decoration: none;
+}
+a.class3 {
+    color: rgb(192, 192, 192);
+}
+a.class3:visited {
+    text-decoration: none;
+}
+a.class3:hover {
     color: rgb(255, 255, 255);
     text-decoration: none;
 }
