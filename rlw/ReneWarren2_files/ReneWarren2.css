@@ -142,10 +142,10 @@
     text-transform: none;
 }
 .style_5 {
-    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
+    font-family: 'Arial-BoldItalicMT', 'Arial', sans-serif;
     font-size: 15px;
     font-stretch: normal;
-    font-style: normal;
+    font-style: italic;
     font-weight: 700;
     line-height: 18px;
 }
@@ -158,10 +158,10 @@
     line-height: 18px;
 }
 .style_7 {
-    font-family: 'Arial-BoldItalicMT', 'Arial', sans-serif;
+    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
     font-size: 15px;
     font-stretch: normal;
-    font-style: italic;
+    font-style: normal;
     font-weight: 700;
     line-height: 18px;
 }
@@ -226,10 +226,6 @@
 }
 .style_External_334_57 {
     position: relative;
-}
-.style_SkipStroke_3 {
-    background: transparent;
-    opacity: 1.00;
 }
 .style_External_671_74 {
     position: relative;
