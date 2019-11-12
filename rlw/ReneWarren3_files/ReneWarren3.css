@@ -172,15 +172,22 @@
     line-height: 22px;
 }
 .style_6 {
+    color: rgb(0, 0, 0);
+    font-family: 'Cambria';
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 15px;
+    opacity: 1.00;
+}
+.style_7 {
     font-family: 'Arial-ItalicMT', 'Arial', sans-serif;
     font-size: 17px;
     font-stretch: normal;
     font-style: italic;
     font-weight: 400;
     line-height: 22px;
-}
-.style_External_699_72 {
-    position: relative;
 }
 .style_External_116_29 {
     position: relative;
@@ -225,6 +232,9 @@
 .style_External_697_145 {
     position: relative;
 }
+.style_External_689_72 {
+    position: relative;
+}
 .style_External_264_69 {
     position: relative;
 }
@@ -253,7 +263,7 @@
 .Normal {
     padding: 4px;
 }
-.Normal_External_699_72 {
+.Normal_External_689_72 {
     position: relative;
 }
 .graphic_generic_body_textbox_style_default_SkipStroke {
