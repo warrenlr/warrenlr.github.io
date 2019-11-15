@@ -236,7 +236,7 @@
 .style_External_697_145 {
     position: relative;
 }
-.style_External_689_72 {
+.style_External_696_72 {
     position: relative;
 }
 .style_External_264_69 {
@@ -267,7 +267,7 @@
 .Normal {
     padding: 4px;
 }
-.Normal_External_689_72 {
+.Normal_External_696_72 {
     position: relative;
 }
 .graphic_generic_body_textbox_style_default_SkipStroke {
@@ -320,24 +320,12 @@ a.class1:hover {
     text-decoration: none;
 }
 a.class2 {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
+    color: rgb(192, 192, 192);
 }
 a.class2:visited {
-    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class2:hover {
-    color: rgb(214, 214, 214);
-    text-decoration: none;
-}
-a.class3 {
-    color: rgb(192, 192, 192);
-}
-a.class3:visited {
-    text-decoration: none;
-}
-a.class3:hover {
     color: rgb(255, 255, 255);
     text-decoration: none;
 }
