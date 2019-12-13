@@ -46,7 +46,7 @@
     text-transform: none;
 }
 .paragraph_style_2 {
-    color: rgb(0, 0, 0);
+    color: rgb(214, 214, 214);
     font-family: 'Georgia', serif;
     font-size: 115px;
     font-stretch: normal;
@@ -69,9 +69,6 @@
 }
 .style_1 {
     padding: 4px;
-}
-.style_External_688_94 {
-    position: relative;
 }
 .paragraph_style_3 {
     color: rgb(0, 0, 0);
@@ -103,9 +100,6 @@
     font-weight: 400;
     line-height: 22px;
 }
-.style_External_323_57 {
-    position: relative;
-}
 .style_3 {
     font-family: 'Arial-ItalicMT', 'Arial', sans-serif;
     font-size: 17px;
@@ -113,6 +107,9 @@
     font-style: italic;
     font-weight: 400;
     line-height: 22px;
+}
+.style_External_323_57 {
+    position: relative;
 }
 .paragraph_style_4 {
     color: rgb(0, 0, 0);
@@ -226,6 +223,9 @@
     background: transparent;
     opacity: 1.00;
 }
+.style_External_688_75 {
+    position: relative;
+}
 .style_External_697_145 {
     position: relative;
 }
@@ -257,7 +257,7 @@
 .Normal {
     padding: 4px;
 }
-.Normal_External_688_94 {
+.Normal_External_688_75 {
     position: relative;
 }
 .graphic_generic_body_textbox_style_default_SkipStroke {
@@ -303,20 +303,164 @@ a.class1 {
     text-decoration: none;
 }
 a.class1:visited {
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class1:hover {
     color: rgb(214, 214, 214);
     text-decoration: none;
 }
-a.class2 {
+a.class10 {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class10:visited {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class10:hover {
+    color: rgb(0, 150, 255);
+    text-decoration: none;
+}
+a.class11 {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class11:visited {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class11:hover {
+    color: rgb(0, 150, 255);
+    text-decoration: none;
+}
+a.class12 {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class12:visited {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class12:hover {
+    color: rgb(0, 150, 255);
+    text-decoration: none;
+}
+a.class13 {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class13:visited {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class13:hover {
+    color: rgb(0, 150, 255);
+    text-decoration: none;
+}
+a.class14 {
     color: rgb(192, 192, 192);
+}
+a.class14:visited {
+    text-decoration: none;
+}
+a.class14:hover {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+a.class2 {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
 }
 a.class2:visited {
     text-decoration: none;
 }
 a.class2:hover {
-    color: rgb(255, 255, 255);
+    color: rgb(214, 214, 214);
+    text-decoration: none;
+}
+a.class3 {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class3:visited {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class3:hover {
+    color: rgb(214, 214, 214);
+    text-decoration: none;
+}
+a.class4 {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class4:visited {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class4:hover {
+    color: rgb(0, 150, 255);
+    text-decoration: none;
+}
+a.class5 {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class5:visited {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class5:hover {
+    color: rgb(0, 150, 255);
+    text-decoration: none;
+}
+a.class6 {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class6:visited {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class6:hover {
+    color: rgb(255, 64, 255);
+    text-decoration: none;
+}
+a.class7 {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class7:visited {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class7:hover {
+    color: rgb(0, 150, 255);
+    text-decoration: none;
+}
+a.class8 {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class8:visited {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class8:hover {
+    color: rgb(0, 150, 255);
+    text-decoration: none;
+}
+a.class9 {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class9:visited {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class9:hover {
+    color: rgb(0, 150, 255);
     text-decoration: none;
 }
 a:hover {
