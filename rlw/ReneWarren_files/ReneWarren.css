@@ -2,6 +2,28 @@
     padding: 4px;
 }
 .paragraph_style {
+    color: rgb(214, 214, 214);
+    font-family: 'Georgia', serif;
+    font-size: 117px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 146px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_1 {
     color: rgb(0, 0, 0);
     font-family: 'Georgia', serif;
     font-size: 40px;
@@ -23,7 +45,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_1 {
+.paragraph_style_2 {
     color: rgb(94, 94, 94);
     font-family: 'Georgia', serif;
     font-size: 40px;
@@ -33,28 +55,6 @@
     font-weight: 400;
     letter-spacing: 0;
     line-height: 51px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: center;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style_2 {
-    color: rgb(214, 214, 214);
-    font-family: 'Georgia', serif;
-    font-size: 117px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 146px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -413,6 +413,7 @@ a.class2 {
     text-decoration: none;
 }
 a.class2:visited {
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class2:hover {
@@ -424,7 +425,6 @@ a.class3 {
     text-decoration: none;
 }
 a.class3:visited {
-    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class3:hover {
