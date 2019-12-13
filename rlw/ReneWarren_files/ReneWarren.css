@@ -67,10 +67,32 @@
     text-indent: 0px;
     text-transform: none;
 }
+.paragraph_style_3 {
+    color: rgb(94, 94, 94);
+    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
+    font-size: 36px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 46px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
 .style_1 {
     padding: 4px;
 }
-.paragraph_style_3 {
+.paragraph_style_4 {
     color: rgb(0, 0, 0);
     font-family: 'ArialMT', 'Arial', sans-serif;
     font-size: 17px;
@@ -100,6 +122,9 @@
     font-weight: 400;
     line-height: 22px;
 }
+.style_External_323_57 {
+    position: relative;
+}
 .style_3 {
     font-family: 'Arial-ItalicMT', 'Arial', sans-serif;
     font-size: 17px;
@@ -108,10 +133,7 @@
     font-weight: 400;
     line-height: 22px;
 }
-.style_External_323_57 {
-    position: relative;
-}
-.paragraph_style_4 {
+.paragraph_style_5 {
     color: rgb(0, 0, 0);
     font-family: 'Arial-ItalicMT', 'Arial', sans-serif;
     font-size: 15px;
@@ -157,7 +179,7 @@
     font-weight: 700;
     line-height: 18px;
 }
-.paragraph_style_5 {
+.paragraph_style_6 {
     color: rgb(0, 0, 0);
     font-family: 'Arial-BoldMT', 'Arial', sans-serif;
     font-size: 15px;
@@ -182,7 +204,7 @@
 .style_External_116_29 {
     position: relative;
 }
-.paragraph_style_6 {
+.paragraph_style_7 {
     color: rgb(214, 214, 214);
     font-family: 'ArialMT', 'Arial', sans-serif;
     font-size: 18px;
@@ -224,6 +246,9 @@
     opacity: 1.00;
 }
 .style_External_688_75 {
+    position: relative;
+}
+.style_External_36_52 {
     position: relative;
 }
 .style_External_697_145 {
@@ -275,6 +300,9 @@
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_323_57 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_36_52 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_697_145 {
@@ -359,12 +387,24 @@ a.class13:hover {
     text-decoration: none;
 }
 a.class14 {
-    color: rgb(192, 192, 192);
+    color: rgb(0, 0, 0);
+    text-decoration: none;
 }
 a.class14:visited {
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class14:hover {
+    color: rgb(0, 150, 255);
+    text-decoration: none;
+}
+a.class15 {
+    color: rgb(192, 192, 192);
+}
+a.class15:visited {
+    text-decoration: none;
+}
+a.class15:hover {
     color: rgb(255, 255, 255);
     text-decoration: none;
 }
@@ -392,12 +432,10 @@ a.class3:hover {
     text-decoration: none;
 }
 a.class4 {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
+    color: rgb(214, 214, 214);
 }
 a.class4:visited {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
+    color: rgb(214, 214, 214);
 }
 a.class4:hover {
     color: rgb(0, 150, 255);
