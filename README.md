@@ -1,3 +1,3 @@
-# www.renewarren.ca
+# https://warrenlr.github.io
 
-## About Rene L. Warren (professional web site)
+## About Rene L. Warren (web site)
