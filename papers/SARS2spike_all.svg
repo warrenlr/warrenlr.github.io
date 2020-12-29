@@ -10,14 +10,20 @@
 <text font-size="3.0em" x="1176" y="78.0820399113081" fill="white">Winter</text>
 <line x1="2262" y1="1200" x2="2312" y2="1200" style="stroke:white;stroke-width:4" />
 <text font-size="3.0em" x="2262" y="1245" fill="white">Spring</text>
+<line x1="1200" y1="2252" x2="1200" y2="2302" style="stroke:white;stroke-width:4" />
+<text font-size="3.0em" x="1045" y="2347" fill="white">Summer</text>
 <line x1="148" y1="1200" x2="88" y2="1200" style="stroke:white;stroke-width:4" />
 <text font-size="3.0em" x="74" y="1185" fill="white">Fall</text>
 <line x1="1200" y1="158.082039911308" x2="1200" y2="1045" style="stroke:white;stroke-width:2" />
 <text font-size="2.0em" x="1202" y="166.082039911308" fill="white">- 25.5 kb</text>
 <text font-size="2.0em" x="1202" y="1051" fill="white">- 21.5 kb</text>
-<line x1="1200" y1="2252" x2="1200" y2="2302" style="stroke:white;stroke-width:4" />
-<text font-size="3.0em" x="1045" y="2347" fill="white">Summer</text>
-<circle cx="1960" cy="2020" r="10" style="fill:white;stroke:lightgrey;stroke-width:0.2;fill-opacity:0.6;" />
+<g>	<title>orf1ab gene (21500-21555)</title>
+	<line x1="1205" y1="1045" x2="1205" y2="1033" style="stroke:gainsboro;stroke-width:7" />
+</g><g>	<title>S gene (21563-25384)</title>
+	<line x1="1205" y1="1032" x2="1205" y2="184" style="stroke:grey;stroke-width:7" />
+</g><g>	<title>ORF3a gene (25393-25500)</title>
+	<line x1="1205" y1="182" x2="1205" y2="159" style="stroke:gainsboro;stroke-width:7" />
+</g><circle cx="1960" cy="2020" r="10" style="fill:white;stroke:lightgrey;stroke-width:0.2;fill-opacity:0.6;" />
 <text font-size="3.0em" x="2000" y="2035" fill="white">Africa</text>
 <circle cx="1960" cy="2065" r="10" style="fill:cyan;stroke:lightgrey;stroke-width:0.2;fill-opacity:0.6;" />
 <text font-size="3.0em" x="2000" y="2080" fill="white">Asia</text>
@@ -5622,7 +5628,7 @@
 	<circle cx="1425.87644241606" cy="1855.99282107545" r="2.79588001734407" style="fill:cyan;stroke:black;stroke-width:0;fill-opacity:0.25;"/>
 </g>
 <g>
-	<title>2020-06-09 | G21538A (europe=9) : orf1ab polyprotein, V2691I</title>
+	<title>2020-06-09 | G21538A (europe=9) : orf1ab polyprotein, V7092I</title>
 	<circle cx="1253.27478891117" cy="1354.72122146171" r="3.8169700377573" style="fill:fuchsia;stroke:black;stroke-width:0;fill-opacity:0.25;"/>
 </g>
 <g>
@@ -5762,7 +5768,7 @@
 	<circle cx="1418.46843567974" cy="1914.57805489921" r="3.8169700377573" style="fill:cyan;stroke:black;stroke-width:0;fill-opacity:0.25;"/>
 </g>
 <g>
-	<title>2020-06-11 | G21538A (europe=6) : orf1ab polyprotein, V2691I</title>
+	<title>2020-06-11 | G21538A (europe=6) : orf1ab polyprotein, V7092I</title>
 	<circle cx="1247.84264259099" cy="1356.48623279395" r="3.11260500153457" style="fill:fuchsia;stroke:black;stroke-width:0;fill-opacity:0.25;"/>
 </g>
 <g>
@@ -5826,7 +5832,7 @@
 	<circle cx="1301.94303980105" cy="1555.51762945125" r="2.79588001734407" style="fill:cyan;stroke:black;stroke-width:0;fill-opacity:0.25;"/>
 </g>
 <g>
-	<title>2020-06-12 | G21538A (europe=5) : orf1ab polyprotein, V2691I</title>
+	<title>2020-06-12 | G21538A (europe=5) : orf1ab polyprotein, V7092I</title>
 	<circle cx="1245.10429458824" cy="1357.29736842627" r="2.79588001734407" style="fill:fuchsia;stroke:black;stroke-width:0;fill-opacity:0.25;"/>
 </g>
 <g>
@@ -5914,7 +5920,7 @@
 	<circle cx="1325.79409021391" cy="1669.46993597021" r="3.11260500153457" style="fill:yellow;stroke:black;stroke-width:0;fill-opacity:0.25;"/>
 </g>
 <g>
-	<title>2020-06-13 | G21538A (europe=8) : orf1ab polyprotein, V2691I</title>
+	<title>2020-06-13 | G21538A (europe=8) : orf1ab polyprotein, V7092I</title>
 	<circle cx="1242.35220738041" cy="1358.06058975639" r="3.61235994796777" style="fill:fuchsia;stroke:black;stroke-width:0;fill-opacity:0.25;"/>
 </g>
 <g>
@@ -5962,7 +5968,7 @@
 	<circle cx="1357.22241153052" cy="1830.58465049112" r="6.12591566816902" style="fill:fuchsia;stroke:black;stroke-width:0;fill-opacity:0.25;"/>
 </g>
 <g>
-	<title>2020-06-14 | G21538A (europe=7) : orf1ab polyprotein, V2691I</title>
+	<title>2020-06-14 | G21538A (europe=7) : orf1ab polyprotein, V7092I</title>
 	<circle cx="1239.58721927995" cy="1358.77566429971" r="3.38039216005703" style="fill:fuchsia;stroke:black;stroke-width:0;fill-opacity:0.25;"/>
 </g>
 <g>
@@ -6070,7 +6076,7 @@
 	<circle cx="1309.33319537068" cy="1673.57409800648" r="3.8169700377573" style="fill:yellow;stroke:black;stroke-width:0;fill-opacity:0.25;"/>
 </g>
 <g>
-	<title>2020-06-15 | G21538A (europe=6) : orf1ab polyprotein, V2691I</title>
+	<title>2020-06-15 | G21538A (europe=6) : orf1ab polyprotein, V7092I</title>
 	<circle cx="1236.810172529" cy="1359.44237423758" r="3.11260500153457" style="fill:fuchsia;stroke:black;stroke-width:0;fill-opacity:0.25;"/>
 </g>
 <g>
@@ -6178,7 +6184,7 @@
 	<circle cx="1301.05153575888" cy="1675.41009774024" r="3.61235994796777" style="fill:yellow;stroke:black;stroke-width:0;fill-opacity:0.25;"/>
 </g>
 <g>
-	<title>2020-06-16 | G21538A (europe=6) : orf1ab polyprotein, V2691I</title>
+	<title>2020-06-16 | G21538A (europe=6) : orf1ab polyprotein, V7092I</title>
 	<circle cx="1234.02191304291" cy="1360.06051648371" r="3.11260500153457" style="fill:fuchsia;stroke:black;stroke-width:0;fill-opacity:0.25;"/>
 </g>
 <g>
@@ -6258,7 +6264,7 @@
 	<circle cx="1292.73909487037" cy="1677.10128295283" r="3.11260500153457" style="fill:yellow;stroke:black;stroke-width:0;fill-opacity:0.25;"/>
 </g>
 <g>
-	<title>2020-06-17 | G21538A (europe=6) : orf1ab polyprotein, V2691I</title>
+	<title>2020-06-17 | G21538A (europe=6) : orf1ab polyprotein, V7092I</title>
 	<circle cx="1231.22329015253" cy="1360.62990274598" r="3.11260500153457" style="fill:fuchsia;stroke:black;stroke-width:0;fill-opacity:0.25;"/>
 </g>
 <g>
@@ -6346,7 +6352,7 @@
 	<circle cx="1320.47564255428" cy="1883.25132132488" r="3.11260500153457" style="fill:cyan;stroke:black;stroke-width:0;fill-opacity:0.25;"/>
 </g>
 <g>
-	<title>2020-06-18 | G21538A (europe=5) : orf1ab polyprotein, V2691I</title>
+	<title>2020-06-18 | G21538A (europe=5) : orf1ab polyprotein, V7092I</title>
 	<circle cx="1228.4151563455" cy="1361.15035958382" r="2.79588001734407" style="fill:fuchsia;stroke:black;stroke-width:0;fill-opacity:0.25;"/>
 </g>
 <g>
@@ -6822,7 +6828,7 @@
 	<circle cx="1233.90381162907" cy="1684.84709493781" r="5.96544677533709" style="fill:yellow;stroke:black;stroke-width:0;fill-opacity:0.25;"/>
 </g>
 <g>
-	<title>2020-06-24 | G21538A (europe=6) : orf1ab polyprotein, V2691I</title>
+	<title>2020-06-24 | G21538A (europe=6) : orf1ab polyprotein, V7092I</title>
 	<circle cx="1211.41469570358" cy="1363.23775367888" r="3.11260500153457" style="fill:fuchsia;stroke:black;stroke-width:0;fill-opacity:0.25;"/>
 </g>
 <g>
@@ -7590,7 +7596,7 @@
 	<circle cx="1149.19592206592" cy="1683.36851322556" r="7.52325436912316" style="fill:yellow;stroke:black;stroke-width:0;fill-opacity:0.25;"/>
 </g>
 <g>
-	<title>2020-07-04 | G21538A (europe=6) : orf1ab polyprotein, V2691I</title>
+	<title>2020-07-04 | G21538A (europe=6) : orf1ab polyprotein, V7092I</title>
 	<circle cx="1182.89534237438" cy="1362.73994651481" r="3.11260500153457" style="fill:fuchsia;stroke:black;stroke-width:0;fill-opacity:0.25;"/>
 </g>
 <g>
@@ -20262,7 +20268,7 @@
 	<circle cx="380.322063976718" cy="852.067358755449" r="3.61235994796777" style="fill:lime;stroke:black;stroke-width:0;fill-opacity:0.25;"/>
 </g>
 <g>
-	<title>2020-10-19 | A21551T (north america=8) : orf1ab polyprotein, N2695I</title>
+	<title>2020-10-19 | A21551T (north america=8) : orf1ab polyprotein, N7096I</title>
 	<circle cx="1046.71859313907" cy="1134.93590299436" r="3.61235994796777" style="fill:lime;stroke:black;stroke-width:0;fill-opacity:0.25;"/>
 </g>
 <g>
