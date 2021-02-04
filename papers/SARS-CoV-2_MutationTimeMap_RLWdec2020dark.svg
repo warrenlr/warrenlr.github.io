@@ -19,7 +19,7 @@
 <circle cx="1200" cy="1200" r="169" style="fill:black;stroke:black;stroke-width:0;fill-opacity:1;"/>
 <circle cx="1200" cy="1200" r="168" style="fill:grey;stroke:black;stroke-width:0;fill-opacity:0.085;"/>
 <circle cx="1200" cy="1200" r="155" style="fill:black;stroke:black;stroke-width:0;fill-opacity:1;"/>
-<text font-size="4.0em" x="50" y="60" fill="white">SARS-CoV-2 mutations 2020 timemap</text>
+<a href="https://bcgsc.github.io/SARS2"><text font-size="4.0em" x="50" y="60" fill="white">SARS-CoV-2 mutations 2020 timemap</text></a>
 <text font-size="2.8em" x="50" y="105" fill="white">Genbank MN908947 vs 275,616 GISAID genomes</text>
 <line x1="1200" y1="89.1314031180401" x2="1200" y2="139.13140311804" style="stroke:white;stroke-width:4" />
 <text font-size="3.0em" x="1176" y="79.1314031180401" fill="white">Winter</text>
