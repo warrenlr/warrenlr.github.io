@@ -398,16 +398,33 @@ a.class14:hover {
     color: rgb(0, 150, 255);
     text-decoration: none;
 }
+
 a.class15 {
-    color: rgb(192, 192, 192);
+    color: rgb(0, 0, 0);
+    text-decoration: none;
 }
 a.class15:visited {
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class15:hover {
-    color: rgb(255, 255, 255);
+    color: rgb(0, 150, 255);
     text-decoration: none;
 }
+
+a.class16 {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class16:visited {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class16:hover {
+    color: rgb(0, 150, 255);
+    text-decoration: none;
+}
+
 a.class2 {
     color: rgb(0, 0, 0);
     text-decoration: none;
