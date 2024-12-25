@@ -449,17 +449,17 @@ a.class3:hover {
     text-decoration: none;
 }
 a.class4 {
-    color: rgb(214, 214, 214);
+    color: rgb(0, 150, 255);
 }
 a.class4:visited {
-    color: rgb(214, 214, 214);
+    color: rgb(0, 0, 0);
 }
 a.class4:hover {
-    color: rgb(0, 150, 255);
+    color: rgb(214, 214, 214);
     text-decoration: none;
 }
 a.class5 {
-    color: rgb(0, 0, 0);
+    color: rgb(0, 150, 255);
     text-decoration: none;
 }
 a.class5:visited {
@@ -467,7 +467,7 @@ a.class5:visited {
     text-decoration: none;
 }
 a.class5:hover {
-    color: rgb(0, 150, 255);
+    color: rgb(214, 214, 214);
     text-decoration: none;
 }
 a.class6 {
