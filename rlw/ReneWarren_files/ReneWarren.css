@@ -327,127 +327,107 @@ a:visited {
     text-decoration: none;
 }
 a.class1 {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
+    color: rgb(0, 150, 255);
 }
 a.class1:visited {
     color: rgb(0, 0, 0);
-    text-decoration: none;
 }
 a.class1:hover {
     color: rgb(214, 214, 214);
     text-decoration: none;
 }
 a.class10 {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
+    color: rgb(0, 150, 255);
 }
 a.class10:visited {
     color: rgb(0, 0, 0);
-    text-decoration: none;
 }
 a.class10:hover {
-    color: rgb(0, 150, 255);
+    color: rgb(214, 214, 214);
     text-decoration: none;
 }
 a.class11 {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
+    color: rgb(0, 150, 255);
 }
 a.class11:visited {
     color: rgb(0, 0, 0);
-    text-decoration: none;
 }
 a.class11:hover {
-    color: rgb(0, 150, 255);
+    color: rgb(214, 214, 214);
     text-decoration: none;
 }
 a.class12 {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
+    color: rgb(0, 150, 255);
 }
 a.class12:visited {
     color: rgb(0, 0, 0);
-    text-decoration: none;
 }
 a.class12:hover {
-    color: rgb(0, 150, 255);
+    color: rgb(214, 214, 214);
     text-decoration: none;
 }
 a.class13 {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
+    color: rgb(0, 150, 255);
 }
 a.class13:visited {
     color: rgb(0, 0, 0);
-    text-decoration: none;
 }
 a.class13:hover {
-    color: rgb(0, 150, 255);
+    color: rgb(214, 214, 214);
     text-decoration: none;
 }
 a.class14 {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
+    color: rgb(0, 150, 255);
 }
 a.class14:visited {
     color: rgb(0, 0, 0);
-    text-decoration: none;
 }
 a.class14:hover {
-    color: rgb(0, 150, 255);
+    color: rgb(214, 214, 214);
     text-decoration: none;
 }
-
 a.class15 {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
+    color: rgb(0, 150, 255);
 }
 a.class15:visited {
     color: rgb(0, 0, 0);
-    text-decoration: none;
 }
 a.class15:hover {
-    color: rgb(0, 150, 255);
+    color: rgb(214, 214, 214);
     text-decoration: none;
 }
 
 a.class16 {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
+    color: rgb(0, 150, 255);
 }
 a.class16:visited {
     color: rgb(0, 0, 0);
-    text-decoration: none;
 }
 a.class16:hover {
-    color: rgb(0, 150, 255);
+    color: rgb(214, 214, 214);
     text-decoration: none;
 }
-
 a.class2 {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
+    color: rgb(0, 150, 255);
 }
 a.class2:visited {
     color: rgb(0, 0, 0);
-    text-decoration: none;
 }
 a.class2:hover {
     color: rgb(214, 214, 214);
     text-decoration: none;
 }
 a.class3 {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
+    color: rgb(0, 150, 255);
 }
 a.class3:visited {
-    text-decoration: none;
+    color: rgb(0, 0, 0);
 }
 a.class3:hover {
     color: rgb(214, 214, 214);
     text-decoration: none;
 }
+
 a.class4 {
     color: rgb(0, 150, 255);
 }
@@ -471,53 +451,46 @@ a.class5:hover {
     text-decoration: none;
 }
 a.class6 {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
+    color: rgb(0, 150, 255);
 }
 a.class6:visited {
     color: rgb(0, 0, 0);
-    text-decoration: none;
 }
 a.class6:hover {
-    color: rgb(0, 150, 255);
+    color: rgb(214, 214, 214);
     text-decoration: none;
 }
 a.class7 {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
+    color: rgb(0, 150, 255);
 }
 a.class7:visited {
     color: rgb(0, 0, 0);
-    text-decoration: none;
 }
 a.class7:hover {
-    color: rgb(0, 150, 255);
+    color: rgb(214, 214, 214);
     text-decoration: none;
 }
 a.class8 {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
+    color: rgb(0, 150, 255);
 }
 a.class8:visited {
     color: rgb(0, 0, 0);
-    text-decoration: none;
 }
 a.class8:hover {
-    color: rgb(0, 150, 255);
+    color: rgb(214, 214, 214);
     text-decoration: none;
 }
 a.class9 {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
+    color: rgb(0, 150, 255);
 }
 a.class9:visited {
     color: rgb(0, 0, 0);
-    text-decoration: none;
 }
 a.class9:hover {
-    color: rgb(0, 150, 255);
+    color: rgb(214, 214, 214);
     text-decoration: none;
 }
+
 a:hover {
     color: rgb(0, 0, 0);
     text-decoration: underline;
