@@ -154,45 +154,11 @@ td {
     1px 1px 0 #000;
 }
 
-.style {
-    padding: 4px;
-}
-.paragraph_style {
-    color: rgb(214, 214, 214);
-    font-family: 'Georgia', serif;
-    font-size: 117px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 146px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: center;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-
 </style>
 </head>
 <body style="background: url(hoodoo.jpeg) no-repeat center fixed;background-size: cover;width: 50%;margin: auto;">
 <table class="box" align=center>
-<tr><td align=center colspan=3><H1 class="strokeme">
-<div class="text-content style_External_697_148" style="padding: 0px; ">
-              <div class="style">
-                <p style="padding-bottom: 0pt; padding-top: 0pt; " class="paragraph_style">René <a onclick="window.open(this.href); return false;" title="about.." href="https://warrenlr.github.io/papers" onkeypress="window.open(this.href); return false;" class="class2">W</a>arren</p>
-              </div>
-            </div>
-<a href=https://warrenlr.github.io title="Hoodoo Glitter, Writing-on-Stone Provincial Park, AB (Photo: RL Warren)">RL Warren</a>
-
-</H1></td></tr>
+<tr><td align=center colspan=3><H1 class="strokeme"><a href=https://warrenlr.github.io title="Hoodoo Glitter, Writing-on-Stone Provincial Park, AB (Photo: RL Warren)">RL Warren</a></H1></td></tr>
 <tr>
 <td align=right>
 <span class="custom-dropdown">
