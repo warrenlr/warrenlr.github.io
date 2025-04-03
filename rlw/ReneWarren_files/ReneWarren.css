@@ -432,7 +432,7 @@ a.class4 {
     color: rgb(0, 150, 255);
 }
 a.class4:visited {
-    color: rgb(0, 0, 0);
+    color: rgb(255, 0, 0);
 }
 a.class4:hover {
     color: rgb(214, 214, 214);
